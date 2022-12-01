@@ -1,0 +1,832 @@
+,First Name,Other Names,Full Name,DOB,Day of Birth,Month of Birth,Year of Birth,Position,International Caps,International Goals,Club,Club Country
+1,Hernan,Galindez,"Galindez, Hernan",30 March 1987,30,March,1987,GK,12,0,Aucas,Ecuador
+2,Felix,Torres,"Torres, Felix",11 January 1997,11,January,1997,DF,17,2,Santos Laguna,Mexico
+3,Piero,Hincapie,"Hincapie, Piero",9 January 2002,9,January,2002,DF,21,1,Bayer Leverkusen,Germany
+4,Robert,Arboleda,"Arboleda, Robert",22 October 1991,22,October,1991,DF,33,2,São Paulo,Brazil
+5,Jose,Cifuentes,"Cifuentes, Jose",12 March 1999,12,March,1999,MF,11,0,Los Angeles FC,United States
+6,William,Pacho,"Pacho, William",16 October 2001,16,October,2001,DF,0,0,Antwerp,Belgium
+7,Pervis,Estupinan,"Estupinan, Pervis",21 January 1998,21,January,1998,DF,28,3,Brighton & Hove Albion,England
+8,Carlos,Gruezo,"Gruezo, Carlos",19 April 1995,19,April,1995,MF,46,1,FC Augsburg,Germany
+9,Ayrton,Preciado,"Preciado, Ayrton",17 July 1994,17,July,1994,MF,27,3,Santos Laguna,Mexico
+10,Romario,Ibarra,"Ibarra, Romario",24 September 1994,24,September,1994,MF,25,3,Pachuca,Mexico
+11,Michael,Estrada,"Estrada, Michael",7 April 1996,7,April,1996,FW,36,8,Cruz Azul,Mexico
+12,Moises,Ramirez,"Ramirez, Moises",9 September 2000,9,September,2000,GK,2,0,Independiente del Valle,Ecuador
+13,Enner,Valencia,"Valencia, Enner",4 November 1989,4,November,1989,FW,74,35,Fenerbahçe,Turkey
+14,Xavier,Arreaga,"Arreaga, Xavier",28 September 1994,28,September,1994,DF,18,1,Seattle Sounders FC,United States
+15,Angel,Mena,"Mena, Angel",21 January 1988,21,January,1988,MF,46,7,León,Mexico
+16,Jeremy,Sarmiento,"Sarmiento, Jeremy",16 June 2002,16,June,2002,MF,9,0,Brighton & Hove Albion,England
+17,Angelo,Preciado,"Preciado, Angelo",18 February 1998,18,February,1998,DF,24,0,Genk,Belgium
+18,Diego,Palacios,"Palacios, Diego",12 July 1999,12,July,1999,DF,12,0,Los Angeles FC,United States
+19,Gonzalo,Plata,"Plata, Gonzalo",1 November 2000,1,November,2000,MF,30,5,Valladolid,Spain
+20,Sebas,Mendez,"Mendez, Sebas",26 April 1997,26,April,1997,MF,32,0,Los Angeles FC,United States
+21,Alan,Franco,"Franco, Alan",21 August 1998,21,August,1998,MF,25,1,Talleres,Argentina
+22,Alexander,Dominguez,"Dominguez, Alexander",5 June 1987,5,June,1987,GK,68,0,LDU Quito,Ecuador
+23,Moises,Caicedo,"Caicedo, Moises",2 November 2001,2,November,2001,MF,25,2,Brighton & Hove Albion,England
+24,Djorkaeff,Reasco,"Reasco, Djorkaeff",18 January 1999,18,January,1999,FW,4,0,Newell's Old Boys,Argentina
+25,Jackson,Porozo,"Porozo, Jackson",4 August 2000,4,August,2000,DF,5,0,Troyes,France
+26,Kevin,Rodriguez,"Rodriguez, Kevin",4 March 2000,4,March,2000,FW,1,0,Imbabura,Ecuador
+27,Remko,Pasveer,"Pasveer, Remko",8 November 1983,8,November,1983,GK,2,0,Ajax,Netherlands
+28,Jurrien,Timber,"Timber, Jurrien",17 June 2001,17,June,2001,DF,10,0,Ajax,Netherlands
+29,Matthijs de,Ligt,"Ligt, Matthijs de",12 August 1999,12,August,1999,DF,38,2,Bayern Munich,Germany
+30,Virgil van,Dijk,"Dijk, Virgil van",8 July 1991,8,July,1991,DF,49,6,Liverpool,England
+31,Nathan,Ake,"Ake, Nathan",18 February 1995,18,February,1995,DF,29,3,Manchester City,England
+32,Stefan de,Vrij,"Vrij, Stefan de",5 February 1992,5,February,1992,DF,59,3,Internazionale,Italy
+33,Steven,Bergwijn,"Bergwijn, Steven",8 October 1997,8,October,1997,FW,24,7,Ajax,Netherlands
+34,Cody,Gakpo,"Gakpo, Cody",7 May 1999,7,May,1999,FW,9,3,PSV Eindhoven,Netherlands
+35,Luuk de,Jong,"Jong, Luuk de",27 August 1990,27,August,1990,FW,38,8,PSV Eindhoven,Netherlands
+36,Memphis,Depay,"Depay, Memphis",13 February 1994,13,February,1994,FW,81,42,Barcelona,Spain
+37,Steven,Berghuis,"Berghuis, Steven",19 December 1991,19,December,1991,MF,39,2,Ajax,Netherlands
+38,Noa,Lang,"Lang, Noa",17 June 1999,17,June,1999,FW,5,1,Club Brugge,Belgium
+39,Justin,Bijlow,"Bijlow, Justin",22 January 1998,22,January,1998,GK,6,0,Feyenoord,Netherlands
+40,Davy,Klaassen,"Klaassen, Davy",21 February 1993,21,February,1993,MF,35,9,Ajax,Netherlands
+41,Marten de,Roon,"Roon, Marten de",29 March 1991,29,March,1991,MF,30,0,Atalanta,Italy
+42,Tyrell,Malacia,"Malacia, Tyrell",17 August 1999,17,August,1999,DF,6,0,Manchester United,England
+43,Daley,Blind,"Blind, Daley",9 March 1990,9,March,1990,DF,94,2,Ajax,Netherlands
+44,Vincent,Janssen,"Janssen, Vincent",15 June 1994,15,June,1994,FW,20,7,Antwerp,Belgium
+45,Wout,Weghorst,"Weghorst, Wout",7 August 1992,7,August,1992,FW,15,3,Beşiktaş,Turkey
+46,Teun,Koopmeiners,"Koopmeiners, Teun",28 February 1998,28,February,1998,MF,10,1,Atalanta,Italy
+47,Frenkie de,Jong,"Jong, Frenkie de",12 May 1997,12,May,1997,MF,45,1,Barcelona,Spain
+48,Denzel,Dumfries,"Dumfries, Denzel",18 April 1996,18,April,1996,DF,37,5,Internazionale,Italy
+49,Andries,Noppert,"Noppert, Andries",7 April 1994,7,April,1994,GK,0,0,Heerenveen,Netherlands
+50,Kenneth,Taylor,"Taylor, Kenneth",16 May 2002,16,May,2002,MF,2,0,Ajax,Netherlands
+51,Xavi,Simons,"Simons, Xavi",21 April 2003,21,April,2003,MF,0,0,PSV Eindhoven,Netherlands
+52,Jeremie,Frimpong,"Frimpong, Jeremie",10 December 2000,10,December,2000,DF,0,0,Bayer Leverkusen,Germany
+53,Saad,Sheeb,"Sheeb, Saad",19 February 1990,19,February,1990,GK,76,0,Al-Sadd,Qatar
+54,Ro-Ro,N/A,Ro-Ro,6 August 1990,6,August,1990,DF,80,1,Al-Sadd,Qatar
+55,Abdelkarim,Hassan,"Hassan, Abdelkarim",28 August 1993,28,August,1993,MF,130,15,Al-Sadd,Qatar
+56,Mohammed,Waad,"Waad, Mohammed",18 September 1999,18,September,1999,DF,21,0,Al-Sadd,Qatar
+57,Tarek,Salman,"Salman, Tarek",5 December 1997,5,December,1997,DF,58,0,Al-Sadd,Qatar
+58,Abdulaziz,Hatem,"Hatem, Abdulaziz",1 January 1990,1,January,1990,MF,107,11,Al-Rayyan,Qatar
+59,Ahmed,Alaaeldin,"Alaaeldin, Ahmed",31 January 1993,31,January,1993,FW,47,2,Al-Gharafa,Qatar
+60,Ali,Assadalla,"Assadalla, Ali",19 January 1993,19,January,1993,MF,59,12,Al-Sadd,Qatar
+61,Mohammed,Muntari,"Muntari, Mohammed",20 December 1993,20,December,1993,FW,48,13,Al-Duhail,Qatar
+62,Hassan,Haydos,"Haydos, Hassan",11 December 1990,11,December,1990,MF,169,36,Al-Sadd,Qatar
+63,Akram,Afif,"Afif, Akram",18 November 1996,18,November,1996,FW,89,26,Al-Sadd,Qatar
+64,Karim,Boudiaf,"Boudiaf, Karim",16 September 1990,16,September,1990,MF,115,6,Al-Duhail,Qatar
+65,Musab,Kheder,"Kheder, Musab",1 January 1993,1,January,1993,DF,30,0,Al-Sadd,Qatar
+66,Homam,Ahmed,"Ahmed, Homam",25 August 1999,25,August,1999,DF,29,2,Al-Gharafa,Qatar
+67,Bassam,Rawi,"Rawi, Bassam",16 December 1997,16,December,1997,DF,58,2,Al-Duhail,Qatar
+68,Boualem,Khoukhi,"Khoukhi, Boualem",9 July 1990,9,July,1990,DF,105,20,Al-Sadd,Qatar
+69,Ismaeel,Mohammad,"Mohammad, Ismaeel",5 April 1990,5,April,1990,DF,70,4,Al-Duhail,Qatar
+70,Khalid,Muneer,"Muneer, Khalid",24 February 1998,24,February,1998,FW,2,0,Al-Wakrah,Qatar
+71,Almoez,Ali,"Ali, Almoez",19 August 1996,19,August,1996,FW,85,42,Al-Duhail,Qatar
+72,Salem,Hajri,"Hajri, Salem",10 April 1996,10,April,1996,MF,22,0,Al-Sadd,Qatar
+73,Yousef,Hassan,"Hassan, Yousef",24 May 1996,24,May,1996,GK,7,0,Al-Gharafa,Qatar
+74,Meshaal,Barsham,"Barsham, Meshaal",14 February 1998,14,February,1998,GK,20,0,Al-Sadd,Qatar
+75,Assim,Madibo,"Madibo, Assim",22 October 1996,22,October,1996,MF,43,0,Al-Duhail,Qatar
+76,Naif,Hadhrami,"Hadhrami, Naif",18 July 2001,18,July,2001,MF,1,0,Al-Rayyan,Qatar
+77,Jassem,Gaber,"Gaber, Jassem",20 February 2002,20,February,2002,MF,0,0,Al-Arabi,Qatar
+78,Mostafa,Meshaal,"Meshaal, Mostafa",28 March 2001,28,March,2001,MF,1,0,Al-Sadd,Qatar
+79,Seny,Dieng,"Dieng, Seny",23 November 1994,23,November,1994,GK,4,0,Queens Park Rangers,England
+80,Formose,Mendy,"Mendy, Formose",2 January 2001,2,January,2001,DF,2,0,Amiens,France
+81,Kalidou,Koulibaly,"Koulibaly, Kalidou",20 June 1991,20,June,1991,DF,64,0,Chelsea,England
+82,Pape Abou,Cisse,"Cisse, Pape Abou",14 September 1995,14,September,1995,DF,13,1,Olympiacos,Greece
+83,Idrissa,Gueye,"Gueye, Idrissa",26 September 1989,26,September,1989,MF,96,7,Everton,England
+84,Nampalys,Mendy,"Mendy, Nampalys",23 June 1992,23,June,1992,MF,19,0,Leicester City,England
+85,Nicolas,Jackson,"Jackson, Nicolas",20 June 2001,20,June,2001,FW,0,0,Villarreal,Spain
+86,Cheikhou,Kouyate,"Kouyate, Cheikhou",21 December 1989,21,December,1989,DF,83,4,Nottingham Forest,England
+87,Boulaye,Dia,"Dia, Boulaye",16 November 1996,16,November,1996,FW,19,3,Salernitana,Italy
+88,Moussa,Ndiaye,"Ndiaye, Moussa",18 June 2002,18,June,2002,DF,0,0,Anderlecht,Belgium
+89,Pathe,Ciss,"Ciss, Pathe",16 March 1994,16,March,1994,MF,1,0,Rayo Vallecano,Spain
+90,Fode,Ballo-Toure,"Ballo-Toure, Fode",3 January 1997,3,January,1997,DF,14,0,Milan,Italy
+91,Iliman,Ndiaye,"Ndiaye, Iliman",6 March 2000,6,March,2000,FW,2,0,Sheffield United,England
+92,Ismail,Jakobs,"Jakobs, Ismail",17 August 1999,17,August,1999,DF,2,0,Monaco,France
+93,Krepin,Diatta,"Diatta, Krepin",25 February 1999,25,February,1999,MF,26,2,Monaco,France
+94,Edouard,Mendy,"Mendy, Edouard",1 March 1992,1,March,1992,GK,25,0,Chelsea,England
+95,Pape Matar,Sarr,"Sarr, Pape Matar",14 September 2002,14,September,2002,MF,10,0,Tottenham Hotspur,England
+96,Ismaila,Sarr,"Sarr, Ismaila",25 February 1998,25,February,1998,FW,48,10,Watford,England
+97,Famara,Diedhiou,"Diedhiou, Famara",15 December 1992,15,December,1992,FW,25,10,Alanyaspor,Turkey
+98,Bamba,Dieng,"Dieng, Bamba",23 March 2000,23,March,2000,FW,13,1,Marseille,France
+99,Youssouf,Sabaly,"Sabaly, Youssouf",5 March 1993,5,March,1993,DF,24,0,Real Betis,Spain
+100,Abdou,Diallo,"Diallo, Abdou",4 May 1996,4,May,1996,DF,18,2,RB Leipzig,Germany
+101,Alfred,Gomis,"Gomis, Alfred",5 September 1993,5,September,1993,GK,13,0,Rennes,France
+102,Moustapha,Name,"Name, Moustapha",5 May 1995,5,May,1995,DF,6,0,Pafos,Cyprus
+103,Mamadou,Loum,"Loum, Mamadou",30 December 1996,30,December,1996,MF,3,0,Reading,England
+104,Pape,Gueye,"Gueye, Pape",24 January 1999,24,January,1999,MF,12,0,Marseille,France
+105,Jordan,Pickford,"Pickford, Jordan",7 March 1994,7,March,1994,GK,45,0,Everton,England
+106,Kyle,Walker,"Walker, Kyle",28 May 1990,28,May,1990,DF,70,0,Manchester City,England
+107,Luke,Shaw,"Shaw, Luke",12 July 1995,12,July,1995,DF,23,3,Manchester United,England
+108,Declan,Rice,"Rice, Declan",14 January 1999,14,January,1999,MF,34,2,West Ham United,England
+109,John,Stones,"Stones, John",28 May 1994,28,May,1994,DF,59,3,Manchester City,England
+110,Harry,Maguire,"Maguire, Harry",5 March 1993,5,March,1993,DF,48,7,Manchester United,England
+111,Jack,Grealish,"Grealish, Jack",10 September 1995,10,September,1995,FW,24,1,Manchester City,England
+112,Jordan,Henderson,"Henderson, Jordan",17 June 1990,17,June,1990,MF,70,2,Liverpool,England
+113,Harry,Kane,"Kane, Harry",28 July 1993,28,July,1993,FW,75,51,Tottenham Hotspur,England
+114,Raheem,Sterling,"Sterling, Raheem",8 December 1994,8,December,1994,FW,79,19,Chelsea,England
+115,Marcus,Rashford,"Rashford, Marcus",31 October 1997,31,October,1997,FW,46,12,Manchester United,England
+116,Kieran,Trippier,"Trippier, Kieran",19 September 1990,19,September,1990,DF,37,1,Newcastle United,England
+117,Nick,Pope,"Pope, Nick",19 April 1992,19,April,1992,GK,10,0,Newcastle United,England
+118,Kalvin,Phillips,"Phillips, Kalvin",2 December 1995,2,December,1995,MF,23,0,Manchester City,England
+119,Eric,Dier,"Dier, Eric",15 January 1994,15,January,1994,DF,47,3,Tottenham Hotspur,England
+120,Conor,Coady,"Coady, Conor",25 February 1993,25,February,1993,DF,10,1,Everton,England
+121,Bukayo,Saka,"Saka, Bukayo",5 September 2001,5,September,2001,FW,20,4,Arsenal,England
+122,Trent,Alexander-Arnold,"Alexander-Arnold, Trent",7 October 1998,7,October,1998,DF,17,1,Liverpool,England
+123,Mason,Mount,"Mount, Mason",10 January 1999,10,January,1999,MF,32,5,Chelsea,England
+124,Phil,Foden,"Foden, Phil",28 May 2000,28,May,2000,MF,18,2,Manchester City,England
+125,Ben,White,"White, Ben",8 October 1997,8,October,1997,DF,4,0,Arsenal,England
+126,Jude,Bellingham,"Bellingham, Jude",29 June 2003,29,June,2003,MF,17,0,Borussia Dortmund,Germany
+127,Aaron,Ramsdale,"Ramsdale, Aaron",14 May 1998,14,May,1998,GK,3,0,Arsenal,England
+128,Callum,Wilson,"Wilson, Callum",27 February 1992,27,February,1992,FW,4,1,Newcastle United,England
+129,James,Maddison,"Maddison, James",23 November 1996,23,November,1996,MF,1,0,Leicester City,England
+130,Conor,Gallagher,"Gallagher, Conor",6 February 2000,6,February,2000,MF,4,0,Chelsea,England
+131,Alireza,Beiranvand,"Beiranvand, Alireza",21 September 1992,21,September,1992,GK,52,0,Persepolis,Iran
+132,Sadegh,Moharrami,"Moharrami, Sadegh",1 March 1996,1,March,1996,DF,21,0,Dinamo Zagreb,Croatia
+133,Ehsan,Hajsafi,"Hajsafi, Ehsan",25 February 1990,25,February,1990,DF,121,7,AEK Athens,Greece
+134,Shojae,Khalilzadeh,"Khalilzadeh, Shojae",14 May 1989,14,May,1989,DF,25,1,Al-Ahli Doha,Qatar
+135,Milad,Mohammadi,"Mohammadi, Milad",29 September 1993,29,September,1993,DF,45,1,AEK Athens,Greece
+136,Saeid,Ezatolahi,"Ezatolahi, Saeid",1 October 1996,1,October,1996,MF,47,1,Vejle,Denmark
+137,Alireza,Jahanbakhsh,"Jahanbakhsh, Alireza",11 August 1993,11,August,1993,MF,64,13,Feyenoord,Netherlands
+138,Morteza,Pouraliganji,"Pouraliganji, Morteza",19 April 1992,19,April,1992,DF,46,3,Persepolis,Iran
+139,Mehdi,Taremi,"Taremi, Mehdi",18 July 1992,18,July,1992,FW,60,28,Porto,Portugal
+140,Karim,Ansarifard,"Ansarifard, Karim",3 April 1990,3,April,1990,FW,94,29,Omonia,Cyprus
+141,Vahid,Amiri,"Amiri, Vahid",2 April 1988,2,April,1988,MF,68,2,Persepolis,Iran
+142,Payam,Niazmand,"Niazmand, Payam",6 April 1995,6,April,1995,GK,1,0,Sepahan,Iran
+143,Hossein,Kanaanizadegan,"Kanaanizadegan, Hossein",23 March 1994,23,March,1994,DF,35,2,Al-Ahli Doha,Qatar
+144,Saman,Ghoddos,"Ghoddos, Saman",6 September 1993,6,September,1993,MF,33,2,Brentford,England
+145,Rouzbeh,Cheshmi,"Cheshmi, Rouzbeh",24 July 1993,24,July,1993,DF,19,1,Esteghlal,Iran
+146,Mehdi,Torabi,"Torabi, Mehdi",10 September 1994,10,September,1994,MF,36,7,Persepolis,Iran
+147,Ali,Gholizadeh,"Gholizadeh, Ali",10 March 1996,10,March,1996,MF,26,6,Charleroi,Belgium
+148,Ali,Karimi,"Karimi, Ali",11 February 1994,11,February,1994,MF,13,0,Kayserispor,Turkey
+149,Majid,Hosseini,"Hosseini, Majid",20 June 1996,20,June,1996,DF,18,0,Kayserispor,Turkey
+150,Sardar,Azmoun,"Azmoun, Sardar",1 January 1995,1,January,1995,FW,65,41,Bayer Leverkusen,Germany
+151,Ahmad,Nourollahi,"Nourollahi, Ahmad",1 February 1993,1,February,1993,MF,25,3,Shabab Al-Ahli,United Arab Emirates
+152,Amir,Abedzadeh,"Abedzadeh, Amir",26 April 1993,26,April,1993,GK,11,0,Ponferradina,Spain
+153,Ramin,Rezaeian,"Rezaeian, Ramin",21 March 1990,21,March,1990,DF,46,2,Sepahan,Iran
+154,Hossein,Hosseini,"Hosseini, Hossein",30 June 1992,30,June,1992,GK,6,0,Esteghlal,Iran
+155,Abolfazl,Jalali,"Jalali, Abolfazl",26 June 1998,26,June,1998,DF,3,0,Esteghlal,Iran
+156,Matt,Turner,"Turner, Matt",24 June 1994,24,June,1994,GK,20,0,Arsenal,England
+157,Sergino,Dest,"Dest, Sergino",3 November 2000,3,November,2000,DF,19,2,Milan,Italy
+158,Walker,Zimmerman,"Zimmerman, Walker",19 May 1993,19,May,1993,DF,33,3,Nashville SC,United States
+159,Tyler,Adams,"Adams, Tyler",14 February 1999,14,February,1999,MF,32,1,Leeds United,England
+160,Antonee,Robinson,"Robinson, Antonee",8 August 1997,8,August,1997,DF,29,2,Fulham,England
+161,Yunus,Musah,"Musah, Yunus",29 November 2002,29,November,2002,MF,19,0,Valencia,Spain
+162,Giovanni,Reyna,"Reyna, Giovanni",13 November 2002,13,November,2002,FW,14,4,Borussia Dortmund,Germany
+163,Weston,Mckennie,"Mckennie, Weston",28 August 1998,28,August,1998,MF,37,9,Juventus,Italy
+164,Jesus,Ferreira,"Ferreira, Jesus",24 December 2000,24,December,2000,FW,15,7,FC Dallas,United States
+165,Christian,Pulisic,"Pulisic, Christian",18 September 1998,18,September,1998,FW,52,21,Chelsea,England
+166,Brenden,Aaronson,"Aaronson, Brenden",22 October 2000,22,October,2000,FW,24,6,Leeds United,England
+167,Ethan,Horvath,"Horvath, Ethan",9 June 1995,9,June,1995,GK,8,0,Luton Town,England
+168,Tim,Ream,"Ream, Tim",5 October 1987,5,October,1987,DF,46,1,Fulham,England
+169,Luca de la,Torre,"Torre, Luca de la",23 May 1998,23,May,1998,MF,12,0,Celta Vigo,Spain
+170,Aaron,Long,"Long, Aaron",12 October 1992,12,October,1992,DF,29,3,New York Red Bulls,United States
+171,Jordan,Morris,"Morris, Jordan",26 October 1994,26,October,1994,FW,49,11,Seattle Sounders FC,United States
+172,Cristian,Roldan,"Roldan, Cristian",3 June 1995,3,June,1995,MF,32,0,Seattle Sounders FC,United States
+173,Shaq,Moore,"Moore, Shaq",2 November 1996,2,November,1996,DF,15,1,Nashville SC,United States
+174,Haji,Wright,"Wright, Haji",27 March 1998,27,March,1998,FW,3,1,Antalyaspor,Turkey
+175,Cameron,Carter-Vickers,"Carter-Vickers, Cameron",31 December 1997,31,December,1997,DF,11,0,Celtic,Scotland
+176,Timothy,Weah,"Weah, Timothy",22 February 2000,22,February,2000,FW,25,3,Lille,France
+177,Deandre,Yedlin,"Yedlin, Deandre",9 July 1993,9,July,1993,DF,75,0,Inter Miami CF,United States
+178,Kellyn,Acosta,"Acosta, Kellyn",24 July 1995,24,July,1995,MF,53,2,Los Angeles FC,United States
+179,Josh,Sargent,"Sargent, Josh",20 February 2000,20,February,2000,FW,20,5,Norwich City,England
+180,Sean,Johnson,"Johnson, Sean",31 May 1989,31,May,1989,GK,10,0,New York City FC,United States
+181,Joe,Scally,"Scally, Joe",31 December 2002,31,December,2002,DF,3,0,Borussia Mönchengladbach,Germany
+182,Wayne,Hennessey,"Hennessey, Wayne",24 January 1987,24,January,1987,GK,106,0,Nottingham Forest,England
+183,Chris,Gunter,"Gunter, Chris",21 July 1989,21,July,1989,DF,109,0,AFC Wimbledon,England
+184,Neco,Williams,"Williams, Neco",13 April 2001,13,April,2001,DF,23,2,Nottingham Forest,England
+185,Ben,Davies,"Davies, Ben",24 April 1993,24,April,1993,DF,74,1,Tottenham Hotspur,England
+186,Chris,Mepham,"Mepham, Chris",5 November 1997,5,November,1997,DF,33,0,Bournemouth,England
+187,Joe,Rodon,"Rodon, Joe",22 October 1997,22,October,1997,DF,30,0,Rennes,France
+188,Joe,Allen,"Allen, Joe",14 March 1990,14,March,1990,MF,72,2,Swansea City,Wales
+189,Harry,Wilson,"Wilson, Harry",22 March 1997,22,March,1997,MF,39,5,Fulham,England
+190,Brennan,Johnson,"Johnson, Brennan",23 May 2001,23,May,2001,FW,15,2,Nottingham Forest,England
+191,Aaron,Ramsey,"Ramsey, Aaron",26 December 1990,26,December,1990,MF,75,20,Nice,France
+192,Gareth,Bale,"Bale, Gareth",16 July 1989,16,July,1989,FW,108,40,Los Angeles FC,United States
+193,Danny,Ward,"Ward, Danny",22 June 1993,22,June,1993,GK,26,0,Leicester City,England
+194,Kieffer,Moore,"Moore, Kieffer",8 August 1992,8,August,1992,FW,28,9,Bournemouth,England
+195,Connor,Roberts,"Roberts, Connor",23 September 1995,23,September,1995,DF,41,3,Burnley,England
+196,Ethan,Ampadu,"Ampadu, Ethan",14 September 2000,14,September,2000,DF,37,0,Spezia,Italy
+197,Joe,Morrell,"Morrell, Joe",3 January 1997,3,January,1997,MF,30,0,Portsmouth,England
+198,Tom,Lockyer,"Lockyer, Tom",3 December 1994,3,December,1994,DF,14,0,Luton Town,England
+199,Jonny,Williams,"Williams, Jonny",9 October 1993,9,October,1993,MF,33,2,Swindon Town,England
+200,Mark,Harris,"Harris, Mark",29 December 1998,29,December,1998,FW,5,0,Cardiff City,Wales
+201,Daniel,James,"James, Daniel",10 November 1997,10,November,1997,FW,38,5,Fulham,England
+202,Adam,Davies,"Davies, Adam",17 July 1992,17,July,1992,GK,4,0,Sheffield United,England
+203,Sorba,Thomas,"Thomas, Sorba",25 January 1999,25,January,1999,MF,6,0,Huddersfield Town,England
+204,Dylan,Levitt,"Levitt, Dylan",17 November 2000,17,November,2000,MF,13,0,Dundee United,Scotland
+205,Ben,Cabango,"Cabango, Ben",30 May 2000,30,May,2000,DF,5,0,Swansea City,Wales
+206,Rubin,Colwill,"Colwill, Rubin",27 April 2002,27,April,2002,MF,7,1,Cardiff City,Wales
+207,Matthew,Smith,"Smith, Matthew",22 November 1999,22,November,1999,MF,19,0,Milton Keynes Dons,England
+208,Franco,Armani,"Armani, Franco",16 October 1986,16,October,1986,GK,18,0,River Plate,Argentina
+209,Juan,Foyth,"Foyth, Juan",12 January 1998,12,January,1998,DF,16,0,Villarreal,Spain
+210,Nicolas,Tagliafico,"Tagliafico, Nicolas",31 August 1992,31,August,1992,DF,42,0,Lyon,France
+211,Gonzalo,Montiel,"Montiel, Gonzalo",1 January 1997,1,January,1997,DF,18,0,Sevilla,Spain
+212,Leandro,Paredes,"Paredes, Leandro",29 June 1994,29,June,1994,MF,46,4,Juventus,Italy
+213,German,Pezzella,"Pezzella, German",27 June 1991,27,June,1991,DF,32,2,Real Betis,Spain
+214,Rodrigo,De Paul,"De Paul, Rodrigo",24 May 1994,24,May,1994,MF,44,2,Atlético Madrid,Spain
+215,Marcos,Acuna,"Acuna, Marcos",28 October 1991,28,October,1991,MF,43,0,Sevilla,Spain
+216,Julian,Alvarez,"Alvarez, Julian",31 January 2000,31,January,2000,FW,12,3,Manchester City,England
+217,Lionel,Messi,"Messi, Lionel",24 June 1987,24,June,1987,FW,165,91,Paris Saint-Germain,France
+218,Angel,Di Maria,"Di Maria, Angel",14 February 1988,14,February,1988,FW,124,27,Juventus,Italy
+219,Geronimo,Rulli,"Rulli, Geronimo",20 May 1992,20,May,1992,GK,4,0,Villarreal,Spain
+220,Cristian,Romero,"Romero, Cristian",27 April 1998,27,April,1998,DF,12,1,Tottenham Hotspur,England
+221,Exequiel,Palacios,"Palacios, Exequiel",5 October 1998,5,October,1998,MF,20,0,Bayer Leverkusen,Germany
+222,Angel,Correa,"Correa, Angel",9 March 1995,9,March,1995,FW,22,3,Atlético Madrid,Spain
+223,Thiago,Almada,"Almada, Thiago",26 April 2001,26,April,2001,MF,1,0,Atlanta United FC,United States
+224,Papu,Gomez,"Gomez, Papu",15 February 1988,15,February,1988,MF,15,3,Sevilla,Spain
+225,Guido,Rodriguez,"Rodriguez, Guido",12 April 1994,12,April,1994,MF,26,1,Real Betis,Spain
+226,Nicolas,Otamendi,"Otamendi, Nicolas",12 February 1988,12,February,1988,DF,93,4,Benfica,Portugal
+227,Alexis,Mac Allister,"Mac Allister, Alexis",24 December 1998,24,December,1998,MF,8,0,Brighton & Hove Albion,England
+228,Paulo,Dybala,"Dybala, Paulo",15 November 1993,15,November,1993,FW,34,3,Roma,Italy
+229,Lautaro,Martinez,"Martinez, Lautaro",22 August 1997,22,August,1997,FW,40,21,Internazionale,Italy
+230,Emiliano,Martinez,"Martinez, Emiliano",2 September 1992,2,September,1992,GK,19,0,Aston Villa,England
+231,Enzo,Fernandez,"Fernandez, Enzo",17 January 2001,17,January,2001,MF,3,0,Benfica,Portugal
+232,Lisandro,Martinez,"Martinez, Lisandro",18 January 1998,18,January,1998,DF,10,0,Manchester United,England
+233,Nahuel,Molina,"Molina, Nahuel",6 April 1998,6,April,1998,DF,20,0,Atlético Madrid,Spain
+234,Alfredo,Talavera,"Talavera, Alfredo",18 September 1982,18,September,1982,GK,40,0,Juárez,Mexico
+235,Nestor,Araujo,"Araujo, Nestor",29 August 1991,29,August,1991,DF,63,3,América,Mexico
+236,Cesar,Montes,"Montes, Cesar",24 February 1997,24,February,1997,DF,30,1,Monterrey,Mexico
+237,Edson,Alvarez,"Alvarez, Edson",24 October 1997,24,October,1997,DF,58,3,Ajax,Netherlands
+238,Johan,Vasquez,"Vasquez, Johan",22 October 1998,22,October,1998,DF,7,0,Cremonese,Italy
+239,Gerardo,Arteaga,"Arteaga, Gerardo",7 September 1998,7,September,1998,DF,17,1,Genk,Belgium
+240,Luis,Romo,"Romo, Luis",5 June 1995,5,June,1995,MF,27,1,Monterrey,Mexico
+241,Carlos,Rodriguez,"Rodriguez, Carlos",3 January 1997,3,January,1997,MF,36,0,Cruz Azul,Mexico
+242,Raul,Jimenez,"Jimenez, Raul",5 May 1991,5,May,1991,FW,95,29,Wolverhampton Wanderers,England
+243,Alexis,Vega,"Vega, Alexis",25 November 1997,25,November,1997,FW,22,6,Guadalajara,Mexico
+244,Rogelio,Funes Mori,"Funes Mori, Rogelio",5 March 1991,5,March,1991,FW,16,6,Monterrey,Mexico
+245,Rodolfo,Cota,"Cota, Rodolfo",3 July 1987,3,July,1987,GK,8,0,León,Mexico
+246,Guillermo,Ochoa,"Ochoa, Guillermo",13 July 1985,13,July,1985,GK,131,0,América,Mexico
+247,Erick,Gutierrez,"Gutierrez, Erick",15 June 1995,15,June,1995,MF,34,1,PSV Eindhoven,Netherlands
+248,Hector,Moreno,"Moreno, Hector",17 January 1988,17,January,1988,DF,128,5,Monterrey,Mexico
+249,Hector,Herrera,"Herrera, Hector",19 April 1990,19,April,1990,MF,102,10,Houston Dynamo FC,United States
+250,Orbelin,Pineda,"Pineda, Orbelin",24 March 1996,24,March,1996,FW,50,6,AEK Athens,Greece
+251,Andres,Guardado,"Guardado, Andres",28 September 1986,28,September,1986,MF,178,28,Real Betis,Spain
+252,Jorge,Sanchez,"Sanchez, Jorge",10 December 1997,10,December,1997,DF,26,1,Ajax,Netherlands
+253,Henry,Martin,"Martin, Henry",18 November 1992,18,November,1992,FW,27,6,América,Mexico
+254,Uriel,Antuna,"Antuna, Uriel",21 August 1997,21,August,1997,FW,36,9,Cruz Azul,Mexico
+255,Hirving,Lozano,"Lozano, Hirving",30 July 1995,30,July,1995,FW,60,16,Napoli,Italy
+256,Jesus,Gallardo,"Gallardo, Jesus",15 August 1994,15,August,1994,DF,78,1,Monterrey,Mexico
+257,Luis,Chavez,"Chavez, Luis",15 January 1996,15,January,1996,MF,9,0,Pachuca,Mexico
+258,Roberto,Alvarado,"Alvarado, Roberto",7 September 1998,7,September,1998,FW,31,4,Guadalajara,Mexico
+259,Kevin,Alvarez,"Alvarez, Kevin",15 January 1999,15,January,1999,DF,8,0,Pachuca,Mexico
+260,Wojciech,Szczesny,"Szczesny, Wojciech",18 April 1990,18,April,1990,GK,66,0,Juventus,Italy
+261,Matty,Cash,"Cash, Matty",7 August 1997,7,August,1997,DF,7,1,Aston Villa,England
+262,Artur,Jedrzejczyk,"Jedrzejczyk, Artur",4 November 1987,4,November,1987,DF,40,3,Legia Warsaw,Poland
+263,Mateusz,Wieteska,"Wieteska, Mateusz",11 February 1997,11,February,1997,DF,2,0,Clermont,France
+264,Jan,Bednarek,"Bednarek, Jan",12 April 1996,12,April,1996,DF,45,1,Aston Villa,England
+265,Krystian,Bielik,"Bielik, Krystian",4 January 1998,4,January,1998,MF,5,0,Birmingham City,England
+266,Arkadiusz,Milik,"Milik, Arkadiusz",28 February 1994,28,February,1994,FW,64,16,Juventus,Italy
+267,Damian,Szymanski,"Szymanski, Damian",16 June 1995,16,June,1995,MF,9,1,AEK Athens,Greece
+268,Robert,Lewandowski,"Lewandowski, Robert",21 August 1988,21,August,1988,FW,134,76,Barcelona,Spain
+269,Grzegorz,Krychowiak,"Krychowiak, Grzegorz",29 January 1990,29,January,1990,MF,94,5,Al-Shabab,Saudi Arabia
+270,Kamil,Grosicki,"Grosicki, Kamil",8 June 1988,8,June,1988,MF,87,17,Pogoń Szczecin,Poland
+271,Lukasz,Skorupski,"Skorupski, Lukasz",5 May 1991,5,May,1991,GK,8,0,Bologna,Italy
+272,Jakub,Kaminski,"Kaminski, Jakub",5 June 2002,5,June,2002,MF,4,1,VfL Wolfsburg,Germany
+273,Jakub,Kiwior,"Kiwior, Jakub",15 February 2000,15,February,2000,DF,5,0,Spezia,Italy
+274,Kamil,Glik,"Glik, Kamil",3 February 1988,3,February,1988,DF,99,6,Benevento,Italy
+275,Karol,Swiderski,"Swiderski, Karol",23 January 1997,23,January,1997,FW,18,8,Charlotte FC,United States
+276,Szymon,Zurkowski,"Zurkowski, Szymon",25 September 1997,25,September,1997,MF,7,0,Fiorentina,Italy
+277,Bartosz,Bereszynski,"Bereszynski, Bartosz",12 July 1992,12,July,1992,DF,46,0,Sampdoria,Italy
+278,Sebastian,Szymanski,"Szymanski, Sebastian",10 May 1999,10,May,1999,MF,18,1,Feyenoord,Netherlands
+279,Piotr,Zielinski,"Zielinski, Piotr",20 May 1994,20,May,1994,MF,74,9,Napoli,Italy
+280,Nicola,Zalewski,"Zalewski, Nicola",23 January 2002,23,January,2002,MF,7,0,Roma,Italy
+281,Kamil,Grabara,"Grabara, Kamil",8 January 1999,8,January,1999,GK,1,0,Copenhagen,Denmark
+282,Krzysztof,Piatek,"Piatek, Krzysztof",1 July 1995,1,July,1995,FW,25,11,Salernitana,Italy
+283,Przemyslaw,Frankowski,"Frankowski, Przemyslaw",12 April 1995,12,April,1995,MF,26,1,Lens,France
+284,Robert,Gumny,"Gumny, Robert",4 June 1998,4,June,1998,DF,5,0,FC Augsburg,Germany
+285,Michal,Skoras,"Skoras, Michal",15 February 2000,15,February,2000,MF,1,0,Lech Poznań,Poland
+286,Mohammed,Rubaie,"Rubaie, Mohammed",14 August 1997,14,August,1997,GK,7,0,Al-Ahli,Saudi Arabia
+287,Sultan,Ghannam,"Ghannam, Sultan",6 May 1994,6,May,1994,DF,24,0,Al-Nassr,Saudi Arabia
+288,Abdullah,Madu,"Madu, Abdullah",15 July 1993,15,July,1993,DF,15,0,Al-Nassr,Saudi Arabia
+289,Abdulelah,Amri,"Amri, Abdulelah",15 January 1997,15,January,1997,DF,20,1,Al-Nassr,Saudi Arabia
+290,Ali,Bulaihi,"Bulaihi, Ali",21 November 1989,21,November,1989,DF,37,0,Al-Hilal,Saudi Arabia
+291,Mohammed,Breik,"Breik, Mohammed",15 September 1992,15,September,1992,DF,40,1,Al-Hilal,Saudi Arabia
+292,Salman,Faraj,"Faraj, Salman",1 August 1989,1,August,1989,MF,70,8,Al-Hilal,Saudi Arabia
+293,Abdulellah,Malki,"Malki, Abdulellah",11 October 1994,11,October,1994,MF,27,0,Al-Hilal,Saudi Arabia
+294,Firas,Buraikan,"Buraikan, Firas",14 May 2000,14,May,2000,FW,26,6,Al-Fateh,Saudi Arabia
+295,Salem,Dawsari,"Dawsari, Salem",19 August 1991,19,August,1991,FW,71,17,Al-Hilal,Saudi Arabia
+296,Saleh,Shehri,"Shehri, Saleh",1 November 1993,1,November,1993,FW,20,10,Al-Hilal,Saudi Arabia
+297,Saud,Abdulhamid,"Abdulhamid, Saud",18 July 1999,18,July,1999,DF,23,1,Al-Hilal,Saudi Arabia
+298,Yasser,Shahrani,"Shahrani, Yasser",25 May 1992,25,May,1992,DF,72,2,Al-Hilal,Saudi Arabia
+299,Abdullah,Otayf,"Otayf, Abdullah",3 August 1992,3,August,1992,MF,45,1,Al-Hilal,Saudi Arabia
+300,Ali,Hassan,"Hassan, Ali",4 March 1997,4,March,1997,MF,13,1,Al-Nassr,Saudi Arabia
+301,Sami,Najei,"Najei, Sami",7 February 1997,7,February,1997,MF,17,2,Al-Nassr,Saudi Arabia
+302,Hassan,Tambakti,"Tambakti, Hassan",9 February 1999,9,February,1999,DF,19,0,Al-Shabab,Saudi Arabia
+303,Nawaf,Abed,"Abed, Nawaf",26 January 1990,26,January,1990,MF,55,8,Al-Shabab,Saudi Arabia
+304,Hattan,Bahebri,"Bahebri, Hattan",16 July 1992,16,July,1992,FW,41,4,Al-Shabab,Saudi Arabia
+305,Abdulrahman,Aboud,"Aboud, Abdulrahman",1 June 1995,1,June,1995,FW,3,0,Al-Ittihad,Saudi Arabia
+306,Mohammed,Owais,"Owais, Mohammed",10 October 1991,10,October,1991,GK,42,0,Al-Hilal,Saudi Arabia
+307,Nawaf,Aqidi,"Aqidi, Nawaf",10 May 2000,10,May,2000,GK,0,0,Al-Nassr,Saudi Arabia
+308,Mohamed,Kanno,"Kanno, Mohamed",22 September 1994,22,September,1994,MF,38,1,Al-Hilal,Saudi Arabia
+309,Nasser,Dawsari,"Dawsari, Nasser",19 December 1998,19,December,1998,MF,10,0,Al-Hilal,Saudi Arabia
+310,Haitham,Asiri,"Asiri, Haitham",25 March 2001,25,March,2001,FW,8,1,Al-Ahli,Saudi Arabia
+311,Riyadh,Sharahili,"Sharahili, Riyadh",28 April 1993,28,April,1993,MF,5,0,Abha,Saudi Arabia
+312,Mathew,Ryan,"Ryan, Mathew",8 April 1992,8,April,1992,GK,75,0,Copenhagen,Denmark
+313,Milos,Degenek,"Degenek, Milos",28 April 1994,28,April,1994,DF,38,1,Columbus Crew,United States
+314,Nathaniel,Atkinson,"Atkinson, Nathaniel",13 June 1999,13,June,1999,DF,5,0,Heart of Midlothian,Scotland
+315,Kye,Rowles,"Rowles, Kye",24 June 1998,24,June,1998,DF,3,0,Heart of Midlothian,Scotland
+316,Fran,Karacic,"Karacic, Fran",12 May 1996,12,May,1996,DF,11,1,Brescia,Italy
+317,Marco,Tilio,"Tilio, Marco",23 August 2001,23,August,2001,FW,5,0,Melbourne City,Australia
+318,Mathew,Leckie,"Leckie, Mathew",4 February 1991,4,February,1991,FW,73,13,Melbourne City,Australia
+319,Bailey,Wright,"Wright, Bailey",28 July 1992,28,July,1992,DF,27,2,Sunderland,England
+320,Jamie,Maclaren,"Maclaren, Jamie",29 July 1993,29,July,1993,FW,26,8,Melbourne City,Australia
+321,Ajdin,Hrustic,"Hrustic, Ajdin",5 July 1996,5,July,1996,MF,20,3,Hellas Verona,Italy
+322,Awer,Mabil,"Mabil, Awer",15 September 1995,15,September,1995,FW,29,8,Cádiz,Spain
+323,Andrew,Redmayne,"Redmayne, Andrew",13 January 1989,13,January,1989,GK,4,0,Sydney FC,Australia
+324,Aaron,Mooy,"Mooy, Aaron",15 September 1990,15,September,1990,MF,53,7,Celtic,Scotland
+325,Riley,Mcgree,"Mcgree, Riley",2 November 1998,2,November,1998,MF,11,1,Middlesbrough,England
+326,Mitchell,Duke,"Duke, Mitchell",18 January 1991,18,January,1991,FW,21,8,Fagiano Okayama,Japan
+327,Aziz,Behich,"Behich, Aziz",16 December 1990,16,December,1990,DF,53,2,Dundee United,Scotland
+328,Cameron,Devlin,"Devlin, Cameron",7 June 1998,7,June,1998,MF,1,0,Heart of Midlothian,Scotland
+329,Danny,Vukovic,"Vukovic, Danny",27 March 1985,27,March,1985,GK,4,0,Central Coast Mariners,Australia
+330,Harry,Souttar,"Souttar, Harry",22 October 1998,22,October,1998,DF,10,6,Stoke City,England
+331,Thomas,Deng,"Deng, Thomas",20 March 1997,20,March,1997,DF,2,0,Albirex Niigata,Japan
+332,Garang,Kuol,"Kuol, Garang",15 September 2004,15,September,2004,FW,1,0,Central Coast Mariners,Australia
+333,Jackson,Irvine,"Irvine, Jackson",7 March 1993,7,March,1993,MF,49,7,FC St. Pauli,Germany
+334,Craig,Goodwin,"Goodwin, Craig",16 December 1991,16,December,1991,FW,10,1,Adelaide United,Australia
+335,Joel,King,"King, Joel",30 October 2000,30,October,2000,DF,4,0,OB,Denmark
+336,Jason,Cummings,"Cummings, Jason",1 August 1995,1,August,1995,FW,1,1,Central Coast Mariners,Australia
+337,Keanu,Baccus,"Baccus, Keanu",7 June 1998,7,June,1998,MF,1,0,St Mirren,Scotland
+338,Kasper,Schmeichel,"Schmeichel, Kasper",5 November 1986,5,November,1986,GK,86,0,Nice,France
+339,Joachim,Andersen,"Andersen, Joachim",31 May 1996,31,May,1996,DF,19,0,Crystal Palace,England
+340,Victor,Nelsson,"Nelsson, Victor",14 October 1998,14,October,1998,DF,7,0,Galatasaray,Turkey
+341,Simon,Kjaer,"Kjaer, Simon",26 March 1989,26,March,1989,DF,121,5,Milan,Italy
+342,Joakim,Maehle,"Maehle, Joakim",20 May 1997,20,May,1997,DF,31,9,Atalanta,Italy
+343,Andreas,Christensen,"Christensen, Andreas",10 April 1996,10,April,1996,DF,58,2,Barcelona,Spain
+344,Mathias,Jensen,"Jensen, Mathias",1 January 1996,1,January,1996,MF,20,1,Brentford,England
+345,Thomas,Delaney,"Delaney, Thomas",3 September 1991,3,September,1991,MF,71,7,Sevilla,Spain
+346,Martin,Braithwaite,"Braithwaite, Martin",5 June 1991,5,June,1991,FW,62,10,Espanyol,Spain
+347,Christian,Eriksen,"Eriksen, Christian",14 February 1992,14,February,1992,MF,117,39,Manchester United,England
+348,Andreas,Skov Olsen,"Skov Olsen, Andreas",29 December 1999,29,December,1999,MF,23,8,Club Brugge,Belgium
+349,Kasper,Dolberg,"Dolberg, Kasper",6 October 1997,6,October,1997,FW,37,11,Sevilla,Spain
+350,Rasmus,Kristensen,"Kristensen, Rasmus",11 July 1997,11,July,1997,DF,10,0,Leeds United,England
+351,Mikkel,Damsgaard,"Damsgaard, Mikkel",3 July 2000,3,July,2000,MF,18,4,Brentford,England
+352,Christian,Norgaard,"Norgaard, Christian",10 March 1994,10,March,1994,MF,17,1,Brentford,England
+353,Oliver,Christensen,"Christensen, Oliver",22 March 1999,22,March,1999,GK,1,0,Hertha BSC,Germany
+354,Jens,Stryger Larsen,"Stryger Larsen, Jens",21 February 1991,21,February,1991,DF,49,3,Trabzonspor,Turkey
+355,Daniel,Wass,"Wass, Daniel",31 May 1989,31,May,1989,DF,44,1,Brøndby,Denmark
+356,Jonas,Wind,"Wind, Jonas",7 February 1999,7,February,1999,FW,15,5,VfL Wolfsburg,Germany
+357,Yussuf,Poulsen,"Poulsen, Yussuf",15 June 1994,15,June,1994,FW,68,11,RB Leipzig,Germany
+358,Andreas,Cornelius,"Cornelius, Andreas",16 March 1993,16,March,1993,FW,41,9,Copenhagen,Denmark
+359,Frederik,Ronnow,"Ronnow, Frederik",4 August 1992,4,August,1992,GK,8,0,Union Berlin,Germany
+360,Pierre-Emile,Hojbjerg,"Hojbjerg, Pierre-Emile",5 August 1995,5,August,1995,MF,60,5,Tottenham Hotspur,England
+361,Robert,Skov,"Skov, Robert",20 May 1996,20,May,1996,MF,11,5,1899 Hoffenheim,Germany
+362,Jesper,Lindstrom,"Lindstrom, Jesper",29 February 2000,29,February,2000,MF,6,1,Eintracht Frankfurt,Germany
+363,Alexander,Bah,"Bah, Alexander",9 December 1997,9,December,1997,DF,4,1,Benfica,Portugal
+364,Hugo,Lloris,"Lloris, Hugo",26 December 1986,26,December,1986,GK,139,0,Tottenham Hotspur,England
+365,Benjamin,Pavard,"Pavard, Benjamin",28 March 1996,28,March,1996,DF,46,2,Bayern Munich,Germany
+366,Axel,Disasi,"Disasi, Axel",11 March 1998,11,March,1998,DF,0,0,Monaco,France
+367,Raphael,Varane,"Varane, Raphael",25 April 1993,25,April,1993,DF,87,5,Manchester United,England
+368,Jules,Kounde,"Kounde, Jules",12 November 1998,12,November,1998,DF,12,0,Barcelona,Spain
+369,Matteo,Guendouzi,"Guendouzi, Matteo",14 April 1999,14,April,1999,MF,6,1,Marseille,France
+370,Antoine,Griezmann,"Griezmann, Antoine",21 March 1991,21,March,1991,FW,110,42,Atlético Madrid,Spain
+371,Aurelien,Tchouameni,"Tchouameni, Aurelien",27 January 2000,27,January,2000,MF,14,1,Real Madrid,Spain
+372,Olivier,Giroud,"Giroud, Olivier",30 September 1986,30,September,1986,FW,114,49,Milan,Italy
+373,Kylian,Mbappe,"Mbappe, Kylian",20 December 1998,20,December,1998,FW,59,28,Paris Saint-Germain,France
+374,Ousmane,Dembele,"Dembele, Ousmane",15 May 1997,15,May,1997,FW,28,4,Barcelona,Spain
+375,Randal,Kolo Muani,"Kolo Muani, Randal",5 December 1998,5,December,1998,FW,2,0,Eintracht Frankfurt,Germany
+376,Youssouf,Fofana,"Fofana, Youssouf",10 January 1999,10,January,1999,MF,2,0,Monaco,France
+377,Adrien,Rabiot,"Rabiot, Adrien",3 April 1995,3,April,1995,MF,29,2,Juventus,Italy
+378,Jordan,Veretout,"Veretout, Jordan",1 March 1993,1,March,1993,MF,5,0,Marseille,France
+379,Steve,Mandanda,"Mandanda, Steve",28 March 1985,28,March,1985,GK,34,0,Rennes,France
+380,William,Saliba,"Saliba, William",24 March 2001,24,March,2001,DF,7,0,Arsenal,England
+381,Dayot,Upamecano,"Upamecano, Dayot",27 October 1998,27,October,1998,DF,7,1,Bayern Munich,Germany
+382,Karim,Benzema,"Benzema, Karim",19 December 1987,19,December,1987,FW,97,37,Real Madrid,Spain
+383,Kingsley,Coman,"Coman, Kingsley",13 June 1996,13,June,1996,FW,40,5,Bayern Munich,Germany
+384,Lucas,Hernandez,"Hernandez, Lucas",14 February 1996,14,February,1996,DF,32,0,Bayern Munich,Germany
+385,Theo,Hernandez,"Hernandez, Theo",6 October 1997,6,October,1997,DF,7,1,Milan,Italy
+386,Alphonse,Areola,"Areola, Alphonse",27 February 1993,27,February,1993,GK,5,0,West Ham United,England
+387,Ibrahima,Konate,"Konate, Ibrahima",25 May 1999,25,May,1999,DF,2,0,Liverpool,England
+388,Eduardo,Camavinga,"Camavinga, Eduardo",10 November 2002,10,November,2002,MF,4,1,Real Madrid,Spain
+389,Marcus,Thuram,"Thuram, Marcus",6 August 1997,6,August,1997,FW,4,0,Borussia Mönchengladbach,Germany
+390,Aymen,Mathlouthi,"Mathlouthi, Aymen",14 September 1984,14,September,1984,GK,73,0,Étoile du Sahel,Tunisia
+391,Bilel,Ifa,"Ifa, Bilel",9 March 1990,9,March,1990,DF,37,0,Kuwait SC,Kuwait
+392,Montassar,Talbi,"Talbi, Montassar",26 May 1998,26,May,1998,DF,23,1,Lorient,France
+393,Yassine,Meriah,"Meriah, Yassine",2 July 1993,2,July,1993,DF,61,3,Espérance de Tunis,Tunisia
+394,Nader,Ghandri,"Ghandri, Nader",18 February 1995,18,February,1995,MF,8,0,Club Africain,Tunisia
+395,Dylan,Bronn,"Bronn, Dylan",19 June 1995,19,June,1995,DF,36,2,Salernitana,Italy
+396,Youssef,Msakni,"Msakni, Youssef",28 October 1990,28,October,1990,FW,88,17,Al-Arabi,Qatar
+397,Hannibal,Mejbri,"Mejbri, Hannibal",21 January 2003,21,January,2003,MF,19,0,Birmingham City,England
+398,Issam,Jebali,"Jebali, Issam",25 December 1991,25,December,1991,FW,10,2,OB,Denmark
+399,Wahbi,Khazri,"Khazri, Wahbi",8 February 1991,8,February,1991,FW,72,24,Montpellier,France
+400,Taha Yassine,Khenissi,"Khenissi, Taha Yassine",6 January 1992,6,January,1992,FW,48,9,Kuwait SC,Kuwait
+401,Ali,Maaloul,"Maaloul, Ali",1 January 1990,1,January,1990,DF,83,2,Al Ahly,Egypt
+402,Ferjani,Sassi,"Sassi, Ferjani",18 March 1992,18,March,1992,MF,78,6,Al-Duhail,Qatar
+403,Aissa,Laidouni,"Laidouni, Aissa",13 December 1996,13,December,1996,MF,25,1,Ferencváros,Hungary
+404,Mohamed Ali,Ben Romdhane,"Ben Romdhane, Mohamed Ali",6 September 1999,6,September,1999,MF,23,1,Espérance de Tunis,Tunisia
+405,Aymen,Dahmen,"Dahmen, Aymen",28 January 1997,28,January,1997,GK,5,0,CS Sfaxien,Tunisia
+406,Ellyes,Skhiri,"Skhiri, Ellyes",10 May 1995,10,May,1995,MF,49,3,1. FC Köln,Germany
+407,Ghailene,Chaalali,"Chaalali, Ghailene",28 February 1994,28,February,1994,MF,31,1,Espérance de Tunis,Tunisia
+408,Seifeddine,Jaziri,"Jaziri, Seifeddine",12 February 1993,12,February,1993,FW,29,10,Zamalek,Egypt
+409,Mohamed,Drager,"Drager, Mohamed",25 June 1996,25,June,1996,DF,34,3,Luzern,Switzerland
+410,Wajdi,Kechrida,"Kechrida, Wajdi",5 November 1995,5,November,1995,DF,19,0,Atromitos,Greece
+411,Bechir,Ben Said,"Ben Said, Bechir",29 November 1992,29,November,1992,GK,10,0,US Monastir,Tunisia
+412,Naim,Sliti,"Sliti, Naim",27 July 1992,27,July,1992,FW,69,14,Al-Ettifaq,Saudi Arabia
+413,Ali,Abdi,"Abdi, Ali",20 December 1993,20,December,1993,DF,10,2,Caen,France
+414,Anis Ben,Slimane,"Slimane, Anis Ben",16 March 2001,16,March,2001,FW,25,4,Brøndby,Denmark
+415,Mouez,Hassen,"Hassen, Mouez",5 March 1995,5,March,1995,GK,20,0,Club Africain,Tunisia
+416,Keylor,Navas,"Navas, Keylor",15 December 1986,15,December,1986,GK,107,0,Paris Saint-Germain,France
+417,Daniel,Chacon,"Chacon, Daniel",11 April 2001,11,April,2001,MF,8,0,Cartaginés,Costa Rica
+418,Juan Pablo,Vargas,"Vargas, Juan Pablo",6 June 1995,6,June,1995,DF,12,1,Millonarios,Colombia
+419,Keysher,Fuller,"Fuller, Keysher",12 July 1994,12,July,1994,DF,31,2,Herediano,Costa Rica
+420,Celso,Borges,"Borges, Celso",27 May 1988,27,May,1988,MF,155,27,Alajuelense,Costa Rica
+421,Oscar,Duarte,"Duarte, Oscar",3 June 1989,3,June,1989,DF,71,4,Al-Wehda,Saudi Arabia
+422,Anthony,Contreras,"Contreras, Anthony",29 January 2000,29,January,2000,FW,9,2,Herediano,Costa Rica
+423,Bryan,Oviedo,"Oviedo, Bryan",18 February 1990,18,February,1990,DF,76,2,Real Salt Lake,United States
+424,Jewison,Bennette,"Bennette, Jewison",15 June 2004,15,June,2004,MF,7,2,Sunderland,England
+425,Bryan,Ruiz,"Ruiz, Bryan",18 August 1985,18,August,1985,MF,146,29,Alajuelense,Costa Rica
+426,Johan,Venegas,"Venegas, Johan",27 November 1988,27,November,1988,FW,82,11,Alajuelense,Costa Rica
+427,Joel,Campbell,"Campbell, Joel",26 June 1992,26,June,1992,FW,119,25,León,Mexico
+428,Gerson,Torres,"Torres, Gerson",28 August 1997,28,August,1997,MF,13,1,Herediano,Costa Rica
+429,Youstin,Salas,"Salas, Youstin",17 June 1996,17,June,1996,MF,4,0,Saprissa,Costa Rica
+430,Francisco,Calvo,"Calvo, Francisco",8 July 1992,8,July,1992,DF,75,8,Konyaspor,Turkey
+431,Carlos,Martinez,"Martinez, Carlos",30 March 1999,30,March,1999,DF,7,0,San Carlos,Costa Rica
+432,Yeltsin,Tejeda,"Tejeda, Yeltsin",17 March 1992,17,March,1992,MF,73,0,Herediano,Costa Rica
+433,Esteban,Alvarado,"Alvarado, Esteban",28 April 1989,28,April,1989,GK,25,0,Herediano,Costa Rica
+434,Kendall,Waston,"Waston, Kendall",1 January 1988,1,January,1988,DF,63,9,Saprissa,Costa Rica
+435,Brandon,Aguilera,"Aguilera, Brandon",28 June 2003,28,June,2003,MF,4,0,Guanacasteca,Costa Rica
+436,Douglas,Lopez,"Lopez, Douglas",21 September 1998,21,September,1998,MF,3,0,Herediano,Costa Rica
+437,Ronald,Matarrita,"Matarrita, Ronald",9 July 1994,9,July,1994,DF,52,3,FC Cincinnati,United States
+438,Patrick,Sequeira,"Sequeira, Patrick",1 March 1999,1,March,1999,GK,2,0,Lugo,Spain
+439,Roan,Wilson,"Wilson, Roan",1 May 2002,1,May,2002,MF,3,0,Municipal Grecia,Costa Rica
+440,Anthony,Hernandez,"Hernandez, Anthony",11 October 2001,11,October,2001,MF,3,1,Puntarenas,Costa Rica
+441,Alvaro,Zamora,"Zamora, Alvaro",9 March 2002,9,March,2002,MF,3,0,Saprissa,Costa Rica
+442,Manuel,Neuer,"Neuer, Manuel",27 March 1986,27,March,1986,GK,114,0,Bayern Munich,Germany
+443,Antonio,Rudiger,"Rudiger, Antonio",3 March 1993,3,March,1993,DF,54,2,Real Madrid,Spain
+444,David,Raum,"Raum, David",22 April 1998,22,April,1998,DF,12,0,RB Leipzig,Germany
+445,Matthias,Ginter,"Ginter, Matthias",19 January 1994,19,January,1994,DF,47,2,SC Freiburg,Germany
+446,Thilo,Kehrer,"Kehrer, Thilo",21 September 1996,21,September,1996,DF,23,0,West Ham United,England
+447,Joshua,Kimmich,"Kimmich, Joshua",8 February 1995,8,February,1995,MF,71,5,Bayern Munich,Germany
+448,Kai,Havertz,"Havertz, Kai",11 June 1999,11,June,1999,FW,31,10,Chelsea,England
+449,Leon,Goretzka,"Goretzka, Leon",6 February 1995,6,February,1995,MF,45,14,Bayern Munich,Germany
+450,Niclas,Fullkrug,"Fullkrug, Niclas",9 February 1993,9,February,1993,FW,1,1,Werder Bremen,Germany
+451,Serge,Gnabry,"Gnabry, Serge",14 July 1995,14,July,1995,FW,36,20,Bayern Munich,Germany
+452,Mario,Gotze,"Gotze, Mario",3 June 1992,3,June,1992,MF,63,17,Eintracht Frankfurt,Germany
+453,Kevin,Trapp,"Trapp, Kevin",8 July 1990,8,July,1990,GK,6,0,Eintracht Frankfurt,Germany
+454,Thomas,Muller,"Muller, Thomas",13 September 1989,13,September,1989,MF,118,44,Bayern Munich,Germany
+455,Jamal,Musiala,"Musiala, Jamal",26 February 2003,26,February,2003,MF,17,1,Bayern Munich,Germany
+456,Niklas,Sule,"Sule, Niklas",3 September 1995,3,September,1995,DF,42,1,Borussia Dortmund,Germany
+457,Lukas,Klostermann,"Klostermann, Lukas",3 June 1996,3,June,1996,DF,19,0,RB Leipzig,Germany
+458,Julian,Brandt,"Brandt, Julian",2 May 1996,2,May,1996,MF,39,3,Borussia Dortmund,Germany
+459,Jonas,Hofmann,"Hofmann, Jonas",14 July 1992,14,July,1992,MF,17,4,Borussia Mönchengladbach,Germany
+460,Leroy,Sane,"Sane, Leroy",11 January 1996,11,January,1996,MF,48,11,Bayern Munich,Germany
+461,Christian,Gunter,"Gunter, Christian",28 February 1993,28,February,1993,DF,7,0,SC Freiburg,Germany
+462,Ilkay,Gundogan,"Gundogan, Ilkay",24 October 1990,24,October,1990,MF,63,16,Manchester City,England
+463,Marc-Andre,Ter Stegen,"Ter Stegen, Marc-Andre",30 April 1992,30,April,1992,GK,30,0,Barcelona,Spain
+464,Nico,Schlotterbeck,"Schlotterbeck, Nico",1 December 1999,1,December,1999,DF,6,0,Borussia Dortmund,Germany
+465,Karim,Adeyemi,"Adeyemi, Karim",18 January 2002,18,January,2002,FW,4,1,Borussia Dortmund,Germany
+466,Armel,Bella-Kotchap,"Bella-Kotchap, Armel",11 December 2001,11,December,2001,DF,2,0,Southampton,England
+467,Youssoufa,Moukoko,"Moukoko, Youssoufa",20 November 2004,20,November,2004,FW,1,0,Borussia Dortmund,Germany
+468,Eiji,Kawashima,"Kawashima, Eiji",20 March 1983,20,March,1983,GK,95,0,Strasbourg,France
+469,Miki,Yamane,"Yamane, Miki",22 December 1993,22,December,1993,DF,15,2,Kawasaki Frontale,Japan
+470,Shogo,Taniguchi,"Taniguchi, Shogo",15 July 1991,15,July,1991,DF,14,0,Kawasaki Frontale,Japan
+471,Ko,Itakura,"Itakura, Ko",27 January 1997,27,January,1997,DF,13,1,Borussia Mönchengladbach,Germany
+472,Yuto,Nagatomo,"Nagatomo, Yuto",12 September 1986,12,September,1986,DF,138,4,FC Tokyo,Japan
+473,Wataru,Endo,"Endo, Wataru",9 February 1993,9,February,1993,MF,43,2,VfB Stuttgart,Germany
+474,Gaku,Shibasaki,"Shibasaki, Gaku",28 May 1992,28,May,1992,MF,60,3,Leganés,Spain
+475,Ritsu,Doan,"Doan, Ritsu",16 June 1998,16,June,1998,MF,29,3,SC Freiburg,Germany
+476,Kaoru,Mitoma,"Mitoma, Kaoru",20 May 1997,20,May,1997,MF,9,5,Brighton & Hove Albion,England
+477,Takumi,Minamino,"Minamino, Takumi",16 January 1995,16,January,1995,MF,44,17,Monaco,France
+478,Takefusa,Kubo,"Kubo, Takefusa",4 June 2001,4,June,2001,MF,20,1,Real Sociedad,Spain
+479,Shuichi,Gonda,"Gonda, Shuichi",3 March 1989,3,March,1989,GK,34,0,Shimizu S-Pulse,Japan
+480,Hidemasa,Morita,"Morita, Hidemasa",10 May 1995,10,May,1995,MF,17,2,Sporting CP,Portugal
+481,Junya,Ito,"Ito, Junya",9 March 1993,9,March,1993,MF,38,9,Reims,France
+482,Daichi,Kamada,"Kamada, Daichi",5 August 1996,5,August,1996,MF,22,6,Eintracht Frankfurt,Germany
+483,Takehiro,Tomiyasu,"Tomiyasu, Takehiro",5 November 1998,5,November,1998,DF,29,1,Arsenal,England
+484,Ao,Tanaka,"Tanaka, Ao",10 September 1998,10,September,1998,MF,15,2,Fortuna Düsseldorf,Germany
+485,Takuma,Asano,"Asano, Takuma",10 November 1994,10,November,1994,FW,37,7,VfL Bochum,Germany
+486,Hiroki,Sakai,"Sakai, Hiroki",12 April 1990,12,April,1990,DF,72,1,Urawa Red Diamonds,Japan
+487,Shuto,Machino,"Machino, Shuto",30 September 1999,30,September,1999,FW,4,3,Shonan Bellmare,Japan
+488,Ayase,Ueda,"Ueda, Ayase",28 August 1998,28,August,1998,FW,11,0,Cercle Brugge,Belgium
+489,Maya,Yoshida,"Yoshida, Maya",24 August 1988,24,August,1988,DF,122,12,Schalke 04,Germany
+490,Daniel,Schmidt,"Schmidt, Daniel",3 February 1992,3,February,1992,GK,11,0,Sint-Truiden,Belgium
+491,Yuki,Soma,"Soma, Yuki",25 February 1997,25,February,1997,MF,8,4,Nagoya Grampus,Japan
+492,Daizen,Maeda,"Maeda, Daizen",20 October 1997,20,October,1997,FW,8,1,Celtic,Scotland
+493,Hiroki,Ito,"Ito, Hiroki",12 May 1999,12,May,1999,DF,6,0,VfB Stuttgart,Germany
+494,Robert,Sanchez,"Sanchez, Robert",18 November 1997,18,November,1997,GK,2,0,Brighton & Hove Albion,England
+495,Cesar,Azpilicueta,"Azpilicueta, Cesar",28 August 1989,28,August,1989,DF,42,1,Chelsea,England
+496,Eric,Garcia,"Garcia, Eric",9 January 2001,9,January,2001,DF,19,0,Barcelona,Spain
+497,Pau,Torres,"Torres, Pau",16 January 1997,16,January,1997,DF,22,1,Villarreal,Spain
+498,Sergio,Busquets,"Busquets, Sergio",16 July 1988,16,July,1988,MF,139,2,Barcelona,Spain
+499,Marcos,Llorente,"Llorente, Marcos",30 January 1995,30,January,1995,MF,17,0,Atlético Madrid,Spain
+500,Alvaro,Morata,"Morata, Alvaro",23 October 1992,23,October,1992,FW,57,27,Atlético Madrid,Spain
+501,Koke,N/A,Koke,8 January 1992,8,January,1992,MF,68,0,Atlético Madrid,Spain
+502,Gavi,N/A,Gavi,5 August 2004,5,August,2004,MF,13,2,Barcelona,Spain
+503,Marco,Asensio,"Asensio, Marco",21 January 1996,21,January,1996,FW,31,1,Real Madrid,Spain
+504,Ferran,Torres,"Torres, Ferran",29 February 2000,29,February,2000,FW,31,13,Barcelona,Spain
+505,Nico,Williams,"Williams, Nico",12 July 2002,12,July,2002,FW,3,1,Athletic Bilbao,Spain
+506,David,Raya,"Raya, David",15 September 1995,15,September,1995,GK,2,0,Brentford,England
+507,Alejandro,Balde,"Balde, Alejandro",18 October 2003,18,October,2003,DF,0,0,Barcelona,Spain
+508,Hugo,Guillamon,"Guillamon, Hugo",31 January 2000,31,January,2000,DF,3,1,Valencia,Spain
+509,Rodri,N/A,Rodri,22 June 1996,22,June,1996,MF,35,1,Manchester City,England
+510,Yeremy,Pino,"Pino, Yeremy",20 October 2002,20,October,2002,FW,7,1,Villarreal,Spain
+511,Jordi,Alba,"Alba, Jordi",21 March 1989,21,March,1989,DF,87,9,Barcelona,Spain
+512,Carlos,Soler,"Soler, Carlos",2 January 1997,2,January,1997,MF,12,3,Paris Saint-Germain,France
+513,Dani,Carvajal,"Carvajal, Dani",11 January 1992,11,January,1992,DF,31,0,Real Madrid,Spain
+514,Dani,Olmo,"Olmo, Dani",7 May 1998,7,May,1998,FW,25,4,RB Leipzig,Germany
+515,Pablo,Sarabia,"Sarabia, Pablo",11 May 1992,11,May,1992,FW,25,9,Paris Saint-Germain,France
+516,Unai,Simon,"Simon, Unai",11 June 1997,11,June,1997,GK,27,0,Athletic Bilbao,Spain
+517,Aymeric,Laporte,"Laporte, Aymeric",27 May 1994,27,May,1994,DF,16,1,Manchester City,England
+518,Ansu,Fati,"Fati, Ansu",31 October 2002,31,October,2002,FW,5,2,Barcelona,Spain
+519,Pedri,N/A,Pedri,25 November 2002,25,November,2002,MF,14,0,Barcelona,Spain
+520,Thibaut,Courtois,"Courtois, Thibaut",11 May 1992,11,May,1992,GK,97,0,Real Madrid,Spain
+521,Toby,Alderweireld,"Alderweireld, Toby",2 March 1989,2,March,1989,DF,124,5,Antwerp,Belgium
+522,Arthur,Theate,"Theate, Arthur",25 May 2000,25,May,2000,DF,4,0,Rennes,France
+523,Wout,Faes,"Faes, Wout",3 April 1998,3,April,1998,DF,1,0,Leicester City,England
+524,Jan,Vertonghen,"Vertonghen, Jan",24 April 1987,24,April,1987,DF,142,9,Anderlecht,Belgium
+525,Axel,Witsel,"Witsel, Axel",12 January 1989,12,January,1989,MF,127,12,Atlético Madrid,Spain
+526,Kevin,De Bruyne,"De Bruyne, Kevin",28 June 1991,28,June,1991,MF,94,25,Manchester City,England
+527,Youri,Tielemans,"Tielemans, Youri",7 May 1997,7,May,1997,MF,55,5,Leicester City,England
+528,Romelu,Lukaku,"Lukaku, Romelu",13 May 1993,13,May,1993,FW,102,68,Internazionale,Italy
+529,Eden,Hazard,"Hazard, Eden",7 January 1991,7,January,1991,FW,123,33,Real Madrid,Spain
+530,Yannick,Carrasco,"Carrasco, Yannick",4 September 1993,4,September,1993,FW,60,8,Atlético Madrid,Spain
+531,Simon,Mignolet,"Mignolet, Simon",6 March 1988,6,March,1988,GK,35,0,Club Brugge,Belgium
+532,Koen,Casteels,"Casteels, Koen",25 June 1992,25,June,1992,GK,4,0,VfL Wolfsburg,Germany
+533,Dries,Mertens,"Mertens, Dries",6 May 1987,6,May,1987,FW,107,21,Galatasaray,Turkey
+534,Thomas,Meunier,"Meunier, Thomas",12 September 1991,12,September,1991,MF,59,8,Borussia Dortmund,Germany
+535,Thorgan,Hazard,"Hazard, Thorgan",29 March 1993,29,March,1993,MF,45,9,Borussia Dortmund,Germany
+536,Leandro,Trossard,"Trossard, Leandro",4 December 1994,4,December,1994,FW,21,5,Brighton & Hove Albion,England
+537,Amadou,Onana,"Onana, Amadou",16 August 2001,16,August,2001,MF,2,0,Everton,England
+538,Leander,Dendoncker,"Dendoncker, Leander",15 April 1995,15,April,1995,DF,29,1,Aston Villa,England
+539,Hans,Vanaken,"Vanaken, Hans",24 August 1992,24,August,1992,MF,23,5,Club Brugge,Belgium
+540,Timothy,Castagne,"Castagne, Timothy",5 December 1995,5,December,1995,MF,26,2,Leicester City,England
+541,Charles,De Ketelaere,"De Ketelaere, Charles",10 March 2001,10,March,2001,FW,10,1,Milan,Italy
+542,Michy,Batshuayi,"Batshuayi, Michy",2 October 1993,2,October,1993,FW,48,26,Fenerbahçe,Turkey
+543,Lois,Openda,"Openda, Lois",16 February 2000,16,February,2000,FW,5,2,Lens,France
+544,Jeremy,Doku,"Doku, Jeremy",27 May 2002,27,May,2002,FW,11,2,Rennes,France
+545,Zeno,Debast,"Debast, Zeno",24 October 2003,24,October,2003,DF,3,0,Anderlecht,Belgium
+546,Dayne,St Clair,"St Clair, Dayne",9 May 1997,9,May,1997,GK,2,0,Minnesota United FC,United States
+547,Alistair,Johnston,"Johnston, Alistair",8 October 1998,8,October,1998,DF,30,1,CF Montréal,Canada
+548,Sam,Adekugbe,"Adekugbe, Sam",16 January 1995,16,January,1995,DF,34,1,Hatayspor,Turkey
+549,Kamal,Miller,"Miller, Kamal",16 May 1997,16,May,1997,DF,29,0,CF Montréal,Canada
+550,Steven,Vitoria,"Vitoria, Steven",11 January 1987,11,January,1987,DF,35,4,Chaves,Portugal
+551,Samuel,Piette,"Piette, Samuel",12 November 1994,12,November,1994,MF,66,0,CF Montréal,Canada
+552,Stephen,Eustaquio,"Eustaquio, Stephen",21 December 1996,21,December,1996,MF,26,3,Porto,Portugal
+553,Liam,Fraser,"Fraser, Liam",13 February 1998,13,February,1998,MF,15,0,Deinze,Belgium
+554,Lucas,Cavallini,"Cavallini, Lucas",28 December 1992,28,December,1992,FW,34,18,Vancouver Whitecaps FC,Canada
+555,Junior,Hoilett,"Hoilett, Junior",5 June 1990,5,June,1990,MF,50,14,Reading,England
+556,Tajon,Buchanan,"Buchanan, Tajon",8 February 1999,8,February,1999,FW,26,4,Club Brugge,Belgium
+557,Ike,Ugbo,"Ugbo, Ike",21 September 1998,21,September,1998,FW,8,0,Troyes,France
+558,Atiba,Hutchinson,"Hutchinson, Atiba",8 February 1983,8,February,1983,MF,98,9,Beşiktaş,Turkey
+559,Mark-Anthony,Kaye,"Kaye, Mark-Anthony",2 December 1994,2,December,1994,MF,38,2,Toronto FC,Canada
+560,Ismael,Kone,"Kone, Ismael",16 June 2002,16,June,2002,MF,6,1,CF Montréal,Canada
+561,James,Pantemis,"Pantemis, James",21 February 1997,21,February,1997,GK,0,0,CF Montréal,Canada
+562,Cyle,Larin,"Larin, Cyle",17 April 1995,17,April,1995,FW,55,25,Club Brugge,Belgium
+563,Milan,Borjan,"Borjan, Milan",23 October 1987,23,October,1987,GK,68,0,Red Star Belgrade,Serbia
+564,Alphonso,Davies,"Davies, Alphonso",2 November 2000,2,November,2000,FW,34,12,Bayern Munich,Germany
+565,Jonathan,David,"David, Jonathan",14 January 2000,14,January,2000,FW,35,22,Lille,France
+566,Jonathan,Osorio,"Osorio, Jonathan",12 June 1992,12,June,1992,MF,57,7,Toronto FC,Canada
+567,Richie,Laryea,"Laryea, Richie",7 January 1995,7,January,1995,DF,34,1,Toronto FC,Canada
+568,Liam,Millar,"Millar, Liam",27 September 1999,27,September,1999,MF,16,0,Basel,Switzerland
+569,David,Wotherspoon,"Wotherspoon, David",16 January 1990,16,January,1990,MF,10,1,St Johnstone,Scotland
+570,Derek,Cornelius,"Cornelius, Derek",25 November 1997,25,November,1997,DF,14,0,Panetolikos,Greece
+571,Joel,Waterman,"Waterman, Joel",24 January 1996,24,January,1996,DF,2,0,CF Montréal,Canada
+572,Dominik,Livakovic,"Livakovic, Dominik",9 January 1995,9,January,1995,GK,34,0,Dinamo Zagreb,Croatia
+573,Josip,Stanisic,"Stanisic, Josip",2 April 2000,2,April,2000,DF,7,0,Bayern Munich,Germany
+574,Borna,Barisic,"Barisic, Borna",10 November 1992,10,November,1992,DF,28,1,Rangers,Scotland
+575,Ivan,Perisic,"Perisic, Ivan",2 February 1989,2,February,1989,FW,116,32,Tottenham Hotspur,England
+576,Martin,Erlic,"Erlic, Martin",24 January 1998,24,January,1998,DF,4,0,Sassuolo,Italy
+577,Dejan,Lovren,"Lovren, Dejan",5 July 1989,5,July,1989,DF,72,5,Zenit Saint Petersburg,Russia
+578,Lovro,Majer,"Majer, Lovro",17 January 1998,17,January,1998,MF,11,3,Rennes,France
+579,Mateo,Kovacic,"Kovacic, Mateo",6 May 1994,6,May,1994,MF,84,3,Chelsea,England
+580,Andrej,Kramaric,"Kramaric, Andrej",19 June 1991,19,June,1991,FW,74,20,1899 Hoffenheim,Germany
+581,Luka,Modric,"Modric, Luka",9 September 1985,9,September,1985,MF,155,23,Real Madrid,Spain
+582,Marcelo,Brozovic,"Brozovic, Marcelo",16 November 1992,16,November,1992,MF,77,7,Internazionale,Italy
+583,Ivo,Grbic,"Grbic, Ivo",18 January 1996,18,January,1996,GK,2,0,Atlético Madrid,Spain
+584,Nikola,Vlasic,"Vlasic, Nikola",4 October 1997,4,October,1997,MF,42,7,Torino,Italy
+585,Marko,Livaja,"Livaja, Marko",26 August 1993,26,August,1993,FW,14,3,Hajduk Split,Croatia
+586,Mario,Pasalic,"Pasalic, Mario",9 February 1995,9,February,1995,MF,43,7,Atalanta,Italy
+587,Bruno,Petkovic,"Petkovic, Bruno",16 September 1994,16,September,1994,FW,23,6,Dinamo Zagreb,Croatia
+588,Ante,Budimir,"Budimir, Ante",22 July 1991,22,July,1991,FW,15,1,Osasuna,Spain
+589,Mislav,Orsic,"Orsic, Mislav",29 December 1992,29,December,1992,FW,21,1,Dinamo Zagreb,Croatia
+590,Borna,Sosa,"Sosa, Borna",21 January 1998,21,January,1998,DF,8,1,VfB Stuttgart,Germany
+591,Josko,Gvardiol,"Gvardiol, Josko",23 January 2002,23,January,2002,DF,12,1,RB Leipzig,Germany
+592,Domagoj,Vida,"Vida, Domagoj",29 April 1989,29,April,1989,DF,100,4,AEK Athens,Greece
+593,Josip,Juranovic,"Juranovic, Josip",16 August 1995,16,August,1995,DF,21,0,Celtic,Scotland
+594,Ivica,Ivusic,"Ivusic, Ivica",1 February 1995,1,February,1995,GK,5,0,Osijek,Croatia
+595,Josip,Sutalo,"Sutalo, Josip",28 February 2000,28,February,2000,DF,3,0,Dinamo Zagreb,Croatia
+596,Luka,Sucic,"Sucic, Luka",8 September 2002,8,September,2002,MF,4,0,Red Bull Salzburg,Austria
+597,Kristijan,Jakic,"Jakic, Kristijan",14 May 1997,14,May,1997,MF,4,0,Eintracht Frankfurt,Germany
+598,Yassine,Bounou,"Bounou, Yassine",5 April 1991,5,April,1991,GK,46,0,Sevilla,Spain
+599,Achraf,Hakimi,"Hakimi, Achraf",4 November 1998,4,November,1998,DF,54,8,Paris Saint-Germain,France
+600,Noussair,Mazraoui,"Mazraoui, Noussair",14 November 1997,14,November,1997,DF,15,2,Bayern Munich,Germany
+601,Sofyan,Amrabat,"Amrabat, Sofyan",21 August 1996,21,August,1996,MF,39,0,Fiorentina,Italy
+602,Nayef,Aguerd,"Aguerd, Nayef",30 March 1996,30,March,1996,DF,22,1,West Ham United,England
+603,Romain,Saiss,"Saiss, Romain",26 March 1990,26,March,1990,DF,66,1,Beşiktaş,Turkey
+604,Hakim,Ziyech,"Ziyech, Hakim",19 March 1993,19,March,1993,MF,43,18,Chelsea,England
+605,Azzedine,Ounahi,"Ounahi, Azzedine",19 April 2000,19,April,2000,MF,10,2,Angers,France
+606,Abderrazak,Hamdallah,"Hamdallah, Abderrazak",17 December 1990,17,December,1990,FW,18,6,Al-Ittihad,Saudi Arabia
+607,Anass,Zaroury,"Zaroury, Anass",7 November 2000,7,November,2000,MF,1,0,Burnley,England
+608,Abdelhamid,Sabiri,"Sabiri, Abdelhamid",28 November 1996,28,November,1996,FW,2,1,Sampdoria,Italy
+609,Munir,Mohamedi,"Mohamedi, Munir",10 May 1989,10,May,1989,GK,43,0,Al-Wehda,Saudi Arabia
+610,Ilias,Chair,"Chair, Ilias",30 October 1997,30,October,1997,MF,11,1,Queens Park Rangers,England
+611,Zakaria,Aboukhlal,"Aboukhlal, Zakaria",18 February 2000,18,February,2000,MF,12,2,Toulouse,France
+612,Selim,Amallah,"Amallah, Selim",15 November 1996,15,November,1996,MF,24,4,Standard Liège,Belgium
+613,Abde,Ezzalzouli,"Ezzalzouli, Abde",17 December 2001,17,December,2001,FW,2,0,Osasuna,Spain
+614,Sofiane,Boufal,"Boufal, Sofiane",17 September 1993,17,September,1993,MF,32,6,Angers,France
+615,Jawad,Yamiq,"Yamiq, Jawad",29 February 1992,29,February,1992,DF,12,2,Valladolid,Spain
+616,Youssef,En-Nesyri,"En-Nesyri, Youssef",1 June 1997,1,June,1997,FW,50,15,Sevilla,Spain
+617,Achraf,Dari,"Dari, Achraf",6 May 1999,6,May,1999,DF,4,0,Brest,France
+618,Walid,Cheddira,"Cheddira, Walid",22 January 1998,22,January,1998,FW,2,0,Bari,Italy
+619,Ahmed Reda,Tagnaouti,"Tagnaouti, Ahmed Reda",5 April 1996,5,April,1996,GK,3,0,Wydad AC,Morocco
+620,Bilal,Khannous,"Khannous, Bilal",10 May 2004,10,May,2004,MF,0,0,Genk,Belgium
+621,Badr,Benoun,"Benoun, Badr",30 September 1993,30,September,1993,DF,3,0,Qatar SC,Qatar
+622,Yahia,Attiyat Allah,"Attiyat Allah, Yahia",2 March 1995,2,March,1995,DF,2,0,Wydad AC,Morocco
+623,Yahya,Jabrane,"Jabrane, Yahya",18 June 1991,18,June,1991,MF,5,0,Wydad AC,Morocco
+624,Alisson,N/A,Alisson,2 October 1992,2,October,1992,GK,57,0,Liverpool,England
+625,Danilo,N/A,Danilo,15 July 1991,15,July,1991,DF,46,1,Juventus,Italy
+626,Thiago,Silva,"Silva, Thiago",22 September 1984,22,September,1984,DF,109,7,Chelsea,England
+627,Marquinhos,N/A,Marquinhos,14 May 1994,14,May,1994,DF,71,5,Paris Saint-Germain,France
+628,Casemiro,N/A,Casemiro,23 February 1992,23,February,1992,MF,65,5,Manchester United,England
+629,Alex Sandro,N/A,Alex Sandro,26 January 1991,26,January,1991,DF,37,2,Juventus,Italy
+630,Lucas,Paqueta,"Paqueta, Lucas",27 August 1997,27,August,1997,MF,35,7,West Ham United,England
+631,Fred,N/A,Fred,5 March 1993,5,March,1993,MF,28,0,Manchester United,England
+632,Richarlison,N/A,Richarlison,10 May 1997,10,May,1997,FW,38,17,Tottenham Hotspur,England
+633,Neymar,N/A,Neymar,5 February 1992,5,February,1992,FW,121,75,Paris Saint-Germain,France
+634,Raphinha,N/A,Raphinha,14 December 1996,14,December,1996,FW,11,5,Barcelona,Spain
+635,Weverton,N/A,Weverton,13 December 1987,13,December,1987,GK,8,0,Palmeiras,Brazil
+636,Dani,Alves,"Alves, Dani",6 May 1983,6,May,1983,DF,124,8,UNAM,Mexico
+637,Eder,Militao,"Militao, Eder",18 January 1998,18,January,1998,DF,23,1,Real Madrid,Spain
+638,Fabinho,N/A,Fabinho,23 October 1993,23,October,1993,MF,28,0,Liverpool,England
+639,Alex,Telles,"Telles, Alex",15 December 1992,15,December,1992,DF,8,0,Sevilla,Spain
+640,Bruno,Guimaraes,"Guimaraes, Bruno",16 November 1997,16,November,1997,MF,8,1,Newcastle United,England
+641,Gabriel,Jesus,"Jesus, Gabriel",3 April 1997,3,April,1997,FW,56,19,Arsenal,England
+642,Antony,N/A,Antony,24 February 2000,24,February,2000,FW,11,2,Manchester United,England
+643,Vinicius Junior,N/A,Vinicius Junior,12 July 2000,12,July,2000,FW,16,1,Real Madrid,Spain
+644,Rodrygo,N/A,Rodrygo,9 January 2001,9,January,2001,FW,7,1,Real Madrid,Spain
+645,Everton,Ribeiro,"Ribeiro, Everton",10 April 1989,10,April,1989,MF,21,3,Flamengo,Brazil
+646,Ederson,N/A,Ederson,17 August 1993,17,August,1993,GK,18,0,Manchester City,England
+647,Bremer,N/A,Bremer,18 March 1997,18,March,1997,DF,1,0,Juventus,Italy
+648,Pedro,N/A,Pedro,20 June 1997,20,June,1997,FW,2,1,Flamengo,Brazil
+649,Gabriel,Martinelli,"Martinelli, Gabriel",18 June 2001,18,June,2001,FW,3,0,Arsenal,England
+650,Simon,Ngapandouetnbu,"Ngapandouetnbu, Simon",12 April 2003,12,April,2003,GK,0,0,Marseille,France
+651,Jerome,Ngom Mbekeli,"Ngom Mbekeli, Jerome",30 September 1998,30,September,1998,DF,2,0,Colombe Sportive,Cameroon
+652,Nicolas,Nkoulou,"Nkoulou, Nicolas",27 March 1990,27,March,1990,DF,79,2,Aris,Greece
+653,Christopher,Wooh,"Wooh, Christopher",18 September 2001,18,September,2001,DF,4,0,Rennes,France
+654,Gael,Ondoua,"Ondoua, Gael",4 November 1995,4,November,1995,MF,4,0,Hannover 96,Germany
+655,Moumi,Ngamaleu,"Ngamaleu, Moumi",9 July 1994,9,July,1994,FW,42,4,Dynamo Moscow,Russia
+656,Georges-Kevin,Nkoudou,"Nkoudou, Georges-Kevin",13 February 1995,13,February,1995,MF,3,0,Beşiktaş,Turkey
+657,Andre-Frank,Zambo Anguissa,"Zambo Anguissa, Andre-Frank",16 November 1995,16,November,1995,MF,44,5,Napoli,Italy
+658,Jean-Pierre,Nsame,"Nsame, Jean-Pierre",1 May 1993,1,May,1993,FW,4,0,Young Boys,Switzerland
+659,Vincent,Aboubakar,"Aboubakar, Vincent",22 January 1992,22,January,1992,FW,92,33,Al-Nassr,Saudi Arabia
+660,Christian,Bassogog,"Bassogog, Christian",18 October 1995,18,October,1995,FW,44,7,Shanghai Shenhua,China
+661,Karl,Toko Ekambi,"Toko Ekambi, Karl",14 September 1992,14,September,1992,FW,52,12,Lyon,France
+662,Eric Maxim,Choupo-Moting,"Choupo-Moting, Eric Maxim",23 March 1989,23,March,1989,FW,70,20,Bayern Munich,Germany
+663,Samuel,Gouet,"Gouet, Samuel",14 December 1997,14,December,1997,MF,22,0,Mechelen,Belgium
+664,Pierre,Kunde,"Kunde, Pierre",26 July 1995,26,July,1995,MF,33,1,Olympiacos,Greece
+665,Devis,Epassy,"Epassy, Devis",2 February 1993,2,February,1993,GK,5,0,Abha,Saudi Arabia
+666,Olivier,Mbaizo,"Mbaizo, Olivier",15 August 1997,15,August,1997,DF,11,0,Philadelphia Union,United States
+667,Martin,Hongla,"Hongla, Martin",16 March 1998,16,March,1998,MF,20,0,Hellas Verona,Italy
+668,Collins,Fai,"Fai, Collins",13 August 1992,13,August,1992,DF,53,0,Al-Tai,Saudi Arabia
+669,Bryan,Mbeumo,"Mbeumo, Bryan",7 August 1999,7,August,1999,FW,4,0,Brentford,England
+670,Jean-Charles,Castelletto,"Castelletto, Jean-Charles",26 January 1995,26,January,1995,DF,15,0,Nantes,France
+671,Olivier,Ntcham,"Ntcham, Olivier",9 February 1996,9,February,1996,MF,4,0,Swansea City,Wales
+672,Andre,Onana,"Onana, Andre",2 April 1996,2,April,1996,GK,34,0,Internazionale,Italy
+673,Enzo,Ebosse,"Ebosse, Enzo",11 March 1999,11,March,1999,DF,3,0,Udinese,Italy
+674,Nouhou,Tolo,"Tolo, Nouhou",23 June 1997,23,June,1997,DF,19,0,Seattle Sounders FC,United States
+675,Souaibou,Marou,"Marou, Souaibou",3 December 2000,3,December,2000,MF,3,1,Coton Sport,Cameroon
+676,Marko,Dmitrovic,"Dmitrovic, Marko",24 January 1992,24,January,1992,GK,19,0,Sevilla,Spain
+677,Strahinja,Pavlovic,"Pavlovic, Strahinja",24 May 2001,24,May,2001,DF,22,1,Red Bull Salzburg,Austria
+678,Strahinja,Erakovic,"Erakovic, Strahinja",22 January 2001,22,January,2001,DF,2,0,Red Star Belgrade,Serbia
+679,Nikola,Milenkovic,"Milenkovic, Nikola",12 October 1997,12,October,1997,DF,39,3,Fiorentina,Italy
+680,Milos,Veljkovic,"Veljkovic, Milos",26 September 1995,26,September,1995,DF,21,0,Werder Bremen,Germany
+681,Nemanja,Maksimovic,"Maksimovic, Nemanja",26 January 1995,26,January,1995,MF,40,0,Getafe,Spain
+682,Nemanja,Radonjic,"Radonjic, Nemanja",15 February 1996,15,February,1996,FW,36,5,Torino,Italy
+683,Nemanja,Gudelj,"Gudelj, Nemanja",16 November 1991,16,November,1991,MF,49,1,Sevilla,Spain
+684,Aleksandar,Mitrovic,"Mitrovic, Aleksandar",16 September 1994,16,September,1994,FW,76,50,Fulham,England
+685,Dusan,Tadic,"Tadic, Dusan",20 November 1988,20,November,1988,FW,91,20,Ajax,Netherlands
+686,Luka,Jovic,"Jovic, Luka",23 December 1997,23,December,1997,FW,29,10,Fiorentina,Italy
+687,Predrag,Rajkovic,"Rajkovic, Predrag",31 October 1995,31,October,1995,GK,28,0,Mallorca,Spain
+688,Stefan,Mitrovic,"Mitrovic, Stefan",22 May 1990,22,May,1990,DF,35,0,Getafe,Spain
+689,Andrija,Zivkovic,"Zivkovic, Andrija",11 July 1996,11,July,1996,MF,29,1,PAOK,Greece
+690,Srdjan,Babic,"Babic, Srdjan",22 April 1996,22,April,1996,DF,2,0,Almería,Spain
+691,Sasa,Lukic,"Lukic, Sasa",13 August 1996,13,August,1996,MF,32,2,Torino,Italy
+692,Filip,Kostic,"Kostic, Filip",1 November 1992,1,November,1992,MF,50,3,Juventus,Italy
+693,Dusan,Vlahovic,"Vlahovic, Dusan",28 January 2000,28,January,2000,FW,17,9,Juventus,Italy
+694,Uros,Racic,"Racic, Uros",17 March 1998,17,March,1998,MF,9,0,Braga,Portugal
+695,Sergej,Milinkovic-Savic,"Milinkovic-Savic, Sergej",27 February 1995,27,February,1995,MF,36,6,Lazio,Italy
+696,Filip,Djuricic,"Djuricic, Filip",30 January 1992,30,January,1992,FW,37,5,Sampdoria,Italy
+697,Darko,Lazovic,"Lazovic, Darko",15 September 1990,15,September,1990,MF,26,1,Hellas Verona,Italy
+698,Vanja,Milinkovic-Savic,"Milinkovic-Savic, Vanja",20 February 1997,20,February,1997,GK,7,0,Torino,Italy
+699,Ivan,Ilic,"Ilic, Ivan",17 March 2001,17,March,2001,MF,6,0,Hellas Verona,Italy
+700,Filip,Mladenovic,"Mladenovic, Filip",15 August 1991,15,August,1991,DF,20,1,Legia Warsaw,Poland
+701,Marko,Grujic,"Grujic, Marko",13 April 1996,13,April,1996,MF,18,0,Porto,Portugal
+702,Yann,Sommer,"Sommer, Yann",17 December 1988,17,December,1988,GK,77,0,Borussia Mönchengladbach,Germany
+703,Edimilson,Fernandes,"Fernandes, Edimilson",15 April 1996,15,April,1996,DF,22,2,Mainz 05,Germany
+704,Silvan,Widmer,"Widmer, Silvan",5 March 1993,5,March,1993,DF,34,2,Mainz 05,Germany
+705,Nico,Elvedi,"Elvedi, Nico",30 September 1996,30,September,1996,DF,41,1,Borussia Mönchengladbach,Germany
+706,Manuel,Akanji,"Akanji, Manuel",19 July 1995,19,July,1995,DF,43,1,Manchester City,England
+707,Denis,Zakaria,"Zakaria, Denis",20 November 1996,20,November,1996,MF,43,3,Chelsea,England
+708,Breel,Embolo,"Embolo, Breel",14 February 1997,14,February,1997,FW,59,11,Monaco,France
+709,Remo,Freuler,"Freuler, Remo",15 April 1992,15,April,1992,MF,49,5,Nottingham Forest,England
+710,Haris,Seferovic,"Seferovic, Haris",22 February 1992,22,February,1992,FW,89,25,Galatasaray,Turkey
+711,Granit,Xhaka,"Xhaka, Granit",27 September 1992,27,September,1992,MF,107,12,Arsenal,England
+712,Renato,Steffen,"Steffen, Renato",3 November 1991,3,November,1991,DF,28,1,Lugano,Switzerland
+713,Jonas,Omlin,"Omlin, Jonas",10 January 1994,10,January,1994,GK,4,0,Montpellier,France
+714,Ricardo,Rodriguez,"Rodriguez, Ricardo",25 August 1992,25,August,1992,DF,100,9,Torino,Italy
+715,Michel,Aebischer,"Aebischer, Michel",6 January 1997,6,January,1997,MF,12,0,Bologna,Italy
+716,Djibril,Sow,"Sow, Djibril",6 February 1997,6,February,1997,MF,32,0,Eintracht Frankfurt,Germany
+717,Christian,Fassnacht,"Fassnacht, Christian",11 November 1993,11,November,1993,MF,16,4,Young Boys,Switzerland
+718,Ruben,Vargas,"Vargas, Ruben",5 August 1998,5,August,1998,FW,27,4,FC Augsburg,Germany
+719,Eray,Comert,"Comert, Eray",4 February 1998,4,February,1998,DF,10,0,Valencia,Spain
+720,Noah,Okafor,"Okafor, Noah",24 May 2000,24,May,2000,FW,9,2,Red Bull Salzburg,Austria
+721,Fabian,Frei,"Frei, Fabian",8 January 1989,8,January,1989,MF,22,3,Basel,Switzerland
+722,Gregor,Kobel,"Kobel, Gregor",6 December 1997,6,December,1997,GK,3,0,Borussia Dortmund,Germany
+723,Fabian,Schar,"Schar, Fabian",20 December 1991,20,December,1991,DF,73,8,Newcastle United,England
+724,Xherdan,Shaqiri,"Shaqiri, Xherdan",10 October 1991,10,October,1991,MF,109,26,Chicago Fire FC,United States
+725,Philipp,Kohn,"Kohn, Philipp",2 April 1998,2,April,1998,GK,0,0,Red Bull Salzburg,Austria
+726,Fabian,Rieder,"Rieder, Fabian",16 February 2002,16,February,2002,MF,0,0,Young Boys,Switzerland
+727,Ardon,Jashari,"Jashari, Ardon",30 July 2002,30,July,2002,MF,1,0,Luzern,Switzerland
+728,Lawrence,Ati-Zigi,"Ati-Zigi, Lawrence",29 November 1996,29,November,1996,GK,11,0,St. Gallen,Switzerland
+729,Tariq,Lamptey,"Lamptey, Tariq",30 September 2000,30,September,2000,DF,2,0,Brighton & Hove Albion,England
+730,Denis,Odoi,"Odoi, Denis",27 May 1988,27,May,1988,DF,4,0,Club Brugge,Belgium
+731,Mohammed,Salisu,"Salisu, Mohammed",17 April 1999,17,April,1999,DF,3,1,Southampton,England
+732,Thomas,Partey,"Partey, Thomas",13 June 1993,13,June,1993,MF,40,13,Arsenal,England
+733,Elisha,Owusu,"Owusu, Elisha",7 November 1997,7,November,1997,MF,3,0,Gent,Belgium
+734,Abdul Fatawu,Issahaku,"Issahaku, Abdul Fatawu",8 March 2004,8,March,2004,MF,13,1,Sporting CP,Portugal
+735,Daniel-Kofi,Kyereh,"Kyereh, Daniel-Kofi",8 March 1996,8,March,1996,MF,15,0,SC Freiburg,Germany
+736,Jordan,Ayew,"Ayew, Jordan",11 September 1991,11,September,1991,FW,84,19,Crystal Palace,England
+737,Andre,Ayew,"Ayew, Andre",17 December 1989,17,December,1989,FW,110,23,Al-Sadd,Qatar
+738,Osman,Bukari,"Bukari, Osman",13 December 1998,13,December,1998,MF,7,1,Red Star Belgrade,Serbia
+739,Ibrahim,Danlad,"Danlad, Ibrahim",2 December 2002,2,December,2002,GK,4,0,Asante Kotoko,Ghana
+740,Daniel,Afriyie,"Afriyie, Daniel",26 June 2001,26,June,2001,MF,7,3,Hearts of Oak,Ghana
+741,Gideon,Mensah,"Mensah, Gideon",18 July 1998,18,July,1998,DF,12,0,Auxerre,France
+742,Joseph,Aidoo,"Aidoo, Joseph",29 September 1995,29,September,1995,DF,11,0,Celta Vigo,Spain
+743,Abdul,Manaf Nurudeen,"Manaf Nurudeen, Abdul",8 February 1999,8,February,1999,GK,2,0,Eupen,Belgium
+744,Baba,Rahman,"Rahman, Baba",2 July 1994,2,July,1994,DF,48,1,Reading,England
+745,Daniel,Amartey,"Amartey, Daniel",21 December 1994,21,December,1994,DF,46,0,Leicester City,England
+746,Inaki,Williams,"Williams, Inaki",15 June 1994,15,June,1994,FW,3,0,Athletic Bilbao,Spain
+747,Mohammed,Kudus,"Kudus, Mohammed",2 August 2000,2,August,2000,MF,18,5,Ajax,Netherlands
+748,Salis,Abdul Samed,"Abdul Samed, Salis",26 March 2000,26,March,2000,MF,1,0,Lens,France
+749,Kamaldeen,Sulemana,"Sulemana, Kamaldeen",15 February 2002,15,February,2002,MF,13,0,Rennes,France
+750,Alexander,Djiku,"Djiku, Alexander",9 August 1994,9,August,1994,DF,18,1,Strasbourg,France
+751,Kamal,Sowah,"Sowah, Kamal",9 January 2000,9,January,2000,MF,1,0,Club Brugge,Belgium
+752,Antoine,Semenyo,"Semenyo, Antoine",7 January 2000,7,January,2000,FW,4,1,Bristol City,England
+753,Alidu,Seidu,"Seidu, Alidu",4 June 2000,4,June,2000,DF,4,0,Clermont,France
+754,Rui,Patricio,"Patricio, Rui",15 February 1988,15,February,1988,GK,105,0,Roma,Italy
+755,Diogo,Dalot,"Dalot, Diogo",18 March 1999,18,March,1999,DF,7,2,Manchester United,England
+756,Pepe,N/A,Pepe,26 February 1983,26,February,1983,DF,129,7,Porto,Portugal
+757,Ruben,Dias,"Dias, Ruben",14 May 1997,14,May,1997,DF,40,2,Manchester City,England
+758,Raphael,Guerreiro,"Guerreiro, Raphael",22 December 1993,22,December,1993,DF,57,3,Borussia Dortmund,Germany
+759,Joao,Palhinha,"Palhinha, Joao",9 July 1995,9,July,1995,MF,15,2,Fulham,England
+760,Cristiano,Ronaldo,"Ronaldo, Cristiano",5 February 1985,5,February,1985,FW,191,117,Manchester United,England
+761,Bruno,Fernandes,"Fernandes, Bruno",8 September 1994,8,September,1994,MF,49,11,Manchester United,England
+762,Andre,Silva,"Silva, Andre",6 November 1995,6,November,1995,FW,52,19,RB Leipzig,Germany
+763,Bernardo,Silva,"Silva, Bernardo",10 August 1994,10,August,1994,FW,73,8,Manchester City,England
+764,Joao,Felix,"Felix, Joao",10 November 1999,10,November,1999,FW,24,3,Atlético Madrid,Spain
+765,Jose,Sa,"Sa, Jose",17 January 1993,17,January,1993,GK,0,0,Wolverhampton Wanderers,England
+766,Danilo,Pereira,"Pereira, Danilo",9 September 1991,9,September,1991,DF,63,2,Paris Saint-Germain,France
+767,William,Carvalho,"Carvalho, William",7 April 1992,7,April,1992,MF,76,5,Real Betis,Spain
+768,Rafael,Leao,"Leao, Rafael",10 June 1999,10,June,1999,FW,11,0,Milan,Italy
+769,Vitinha,N/A,Vitinha,13 February 2000,13,February,2000,MF,5,0,Paris Saint-Germain,France
+770,Joao Mario,N/A,Joao Mario,19 January 1993,19,January,1993,MF,53,3,Benfica,Portugal
+771,Ruben,Neves,"Neves, Ruben",13 March 1997,13,March,1997,MF,32,0,Wolverhampton Wanderers,England
+772,Nuno,Mendes,"Mendes, Nuno",19 June 2002,19,June,2002,DF,17,0,Paris Saint-Germain,France
+773,Joao,Cancelo,"Cancelo, Joao",27 May 1994,27,May,1994,DF,37,7,Manchester City,England
+774,Ricardo,Horta,"Horta, Ricardo",15 September 1994,15,September,1994,FW,6,1,Braga,Portugal
+775,Diogo,Costa,"Costa, Diogo",19 September 1999,19,September,1999,GK,7,0,Porto,Portugal
+776,Matheus,Nunes,"Nunes, Matheus",27 August 1998,27,August,1998,MF,9,1,Wolverhampton Wanderers,England
+777,Antonio,Silva,"Silva, Antonio",30 October 2003,30,October,2003,DF,1,0,Benfica,Portugal
+778,Otavio,N/A,Otavio,9 February 1995,9,February,1995,MF,8,2,Porto,Portugal
+779,Goncalo,Ramos,"Ramos, Goncalo",20 June 2001,20,June,2001,FW,1,1,Benfica,Portugal
+780,Seung-gyu,Kim,"Kim, Seung-gyu",30 September 1990,30,September,1990,GK,67,0,Al-Shabab,Saudi Arabia
+781,Jong-gyu,Yoon,"Yoon, Jong-gyu",20 March 1998,20,March,1998,DF,4,0,FC Seoul,South Korea
+782,Jin-su,Kim,"Kim, Jin-su",13 June 1992,13,June,1992,DF,61,2,Jeonbuk Hyundai Motors,South Korea
+783,Min-jae,Kim,"Kim, Min-jae",15 November 1996,15,November,1996,DF,44,3,Napoli,Italy
+784,Woo-young,Jung,"Jung, Woo-young",14 December 1989,14,December,1989,MF,66,3,Al-Sadd,Qatar
+785,In-beom,Hwang,"Hwang, In-beom",20 September 1996,20,September,1996,MF,37,4,Olympiacos,Greece
+786,Heung-min,Son,"Son, Heung-min",8 July 1992,8,July,1992,MF,104,35,Tottenham Hotspur,England
+787,Seung-ho,Paik,"Paik, Seung-ho",17 March 1997,17,March,1997,MF,14,2,Jeonbuk Hyundai Motors,South Korea
+788,Gue-sung,Cho,"Cho, Gue-sung",25 January 1998,25,January,1998,FW,16,4,Jeonbuk Hyundai Motors,South Korea
+789,Jae-sung,Lee,"Lee, Jae-sung",10 August 1992,10,August,1992,MF,64,9,Mainz 05,Germany
+790,Hee-chan,Hwang,"Hwang, Hee-chan",26 January 1996,26,January,1996,MF,49,9,Wolverhampton Wanderers,England
+791,Bum-keun,Song,"Song, Bum-keun",15 October 1997,15,October,1997,GK,1,0,Jeonbuk Hyundai Motors,South Korea
+792,Jun-ho,Son,"Son, Jun-ho",12 May 1992,12,May,1992,MF,15,0,Shandong Taishan,China
+793,Chul,Hong,"Hong, Chul",17 September 1990,17,September,1990,DF,46,1,Daegu FC,South Korea
+794,Moon-hwan,Kim,"Kim, Moon-hwan",1 August 1995,1,August,1995,DF,22,0,Jeonbuk Hyundai Motors,South Korea
+795,Ui-jo,Hwang,"Hwang, Ui-jo",28 August 1992,28,August,1992,FW,49,16,Olympiacos,Greece
+796,Sang-ho,Na,"Na, Sang-ho",12 August 1996,12,August,1996,MF,24,2,FC Seoul,South Korea
+797,Kang-in,Lee,"Lee, Kang-in",19 February 2001,19,February,2001,MF,6,0,Mallorca,Spain
+798,Young-gwon,Kim,"Kim, Young-gwon",27 February 1990,27,February,1990,DF,96,6,Ulsan Hyundai,South Korea
+799,Kyung-won,Kwon,"Kwon, Kyung-won",31 January 1992,31,January,1992,DF,28,2,Gamba Osaka,Japan
+800,Hyeon-woo,Jo,"Jo, Hyeon-woo",25 September 1991,25,September,1991,GK,22,0,Ulsan Hyundai,South Korea
+801,Chang-hoon,Kwon,"Kwon, Chang-hoon",30 June 1994,30,June,1994,MF,42,12,Gimcheon Sangmu,South Korea
+802,Tae-hwan,Kim,"Kim, Tae-hwan",24 July 1989,24,July,1989,DF,19,0,Ulsan Hyundai,South Korea
+803,Yu-min,Cho,"Cho, Yu-min",17 November 1996,17,November,1996,DF,4,0,Daejeon Hana Citizen,South Korea
+804,Woo-yeong,Jeong,"Jeong, Woo-yeong",20 September 1999,20,September,1999,MF,9,2,SC Freiburg,Germany
+805,Min-kyu,Song,"Song, Min-kyu",12 September 1999,12,September,1999,MF,13,1,Jeonbuk Hyundai Motors,South Korea
+806,Fernando,Muslera,"Muslera, Fernando",16 June 1986,16,June,1986,GK,133,0,Galatasaray,Turkey
+807,Jose,Gimenez,"Gimenez, Jose",20 January 1995,20,January,1995,DF,78,8,Atlético Madrid,Spain
+808,Diego,Godin,"Godin, Diego",16 February 1986,16,February,1986,DF,159,8,Vélez Sarsfield,Argentina
+809,Ronald,Araujo,"Araujo, Ronald",7 March 1999,7,March,1999,DF,12,0,Barcelona,Spain
+810,Matias,Vecino,"Vecino, Matias",24 August 1991,24,August,1991,MF,62,4,Lazio,Italy
+811,Rodrigo,Bentancur,"Bentancur, Rodrigo",25 June 1997,25,June,1997,MF,51,1,Tottenham Hotspur,England
+812,Nicolas de la,Cruz,"Cruz, Nicolas de la",1 June 1997,1,June,1997,MF,17,2,River Plate,Argentina
+813,Facundo,Pellistri,"Pellistri, Facundo",20 December 2001,20,December,2001,FW,7,0,Manchester United,England
+814,Luis,Suarez,"Suarez, Luis",24 January 1987,24,January,1987,FW,134,68,Nacional,Uruguay
+815,Giorgian de,Arrascaeta,"Arrascaeta, Giorgian de",1 June 1994,1,June,1994,MF,40,8,Flamengo,Brazil
+816,Darwin,Nunez,"Nunez, Darwin",24 June 1999,24,June,1999,FW,13,3,Liverpool,England
+817,Sebastian,Sosa,"Sosa, Sebastian",19 August 1986,19,August,1986,GK,1,0,Independiente,Argentina
+818,Guillermo,Varela,"Varela, Guillermo",24 March 1993,24,March,1993,DF,9,0,Flamengo,Brazil
+819,Lucas,Torreira,"Torreira, Lucas",11 February 1996,11,February,1996,MF,40,0,Galatasaray,Turkey
+820,Federico,Valverde,"Valverde, Federico",22 July 1998,22,July,1998,MF,44,4,Real Madrid,Spain
+821,Mathias,Olivera,"Olivera, Mathias",31 October 1997,31,October,1997,DF,8,0,Napoli,Italy
+822,Matias,Vina,"Vina, Matias",9 November 1997,9,November,1997,DF,26,0,Roma,Italy
+823,Maxi,Gomez,"Gomez, Maxi",14 August 1996,14,August,1996,FW,27,4,Trabzonspor,Turkey
+824,Sebastian,Coates,"Coates, Sebastian",7 October 1990,7,October,1990,DF,47,1,Sporting CP,Portugal
+825,Facundo,Torres,"Torres, Facundo",13 April 2000,13,April,2000,FW,10,0,Orlando City SC,United States
+826,Edinson,Cavani,"Cavani, Edinson",14 February 1987,14,February,1987,FW,133,58,Valencia,Spain
+827,Martin,Caceres,"Caceres, Martin",7 April 1987,7,April,1987,DF,115,4,LA Galaxy,United States
+828,Sergio,Rochet,"Rochet, Sergio",23 March 1993,23,March,1993,GK,8,0,Nacional,Uruguay
+829,Agustin,Canobbio,"Canobbio, Agustin",1 October 1998,1,October,1998,MF,3,0,Athletico Paranaense,Brazil
+830,Manuel,Ugarte,"Ugarte, Manuel",11 April 2001,11,April,2001,MF,6,0,Sporting CP,Portugal
+831,Jose Luis,Rodriguez,"Rodriguez, Jose Luis",14 March 1997,14,March,1997,DF,0,0,Nacional,Uruguay
